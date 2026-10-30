@@ -7,52 +7,88 @@
 <meta name="description" content="STHETO : banque de questions pour USMLE Step 1, Step 2 et concours de résidanat. Entraînement, examens blancs, scores et explications.">
 <style>
 :root{
-  --bg:#f3f7fd; --ink:#0f1f3d; --muted:#5a6b8c; --card:#fff; --line:#dbe5f4;
-  --b1:#0b3d91; --b2:#1d6bf3; --b3:#4f9bff; --soft:#e8f0fe;
-  --ok:#12805c; --okbg:#e3f6ee; --ko:#c0392b; --kobg:#fdeceb; --shadow:0 6px 24px rgba(15,50,120,.08);
+  --bg:#F3F6FB; --ink:#0B2545; --muted:#5B6B85; --card:#FFFFFF; --line:#DCE4F0;
+  --b1:#0B2545; --b2:#1F5FD8; --b3:#5B8DEF; --soft:#EAF0FB; --teal:#12A594; --gold:#F2B544;
+  --ok:#0E8F6B; --okbg:#E2F5EE; --ko:#D14343; --kobg:#FCEAEA;
+  --shadow:0 1px 2px rgba(11,37,69,.06),0 10px 28px rgba(11,37,69,.07);
 }
 @media (prefers-color-scheme: dark){
-  :root{ --bg:#08111f; --ink:#e8eefb; --muted:#9bb0d3; --card:#0f1c33; --line:#1c3156; --soft:#12264a;
-    --b1:#4f9bff; --b2:#4f9bff; --b3:#8bbcff; --okbg:#0f2f25; --kobg:#35161a; --shadow:none; }
+  :root{ --bg:#071329; --ink:#E7EEFB; --muted:#93A6C6; --card:#0E2142; --line:#1B3560; --soft:#12294F;
+    --b1:#E7EEFB; --b2:#5B8DEF; --b3:#8FB4FF; --teal:#2DD4BF;
+    --ok:#34D399; --okbg:#0E2F2A; --ko:#F87171; --kobg:#33161C; --shadow:none; }
   .btn{color:#06101f}
-  .btn.light{color:#0b3d91}
-  .hero{background:linear-gradient(135deg,#0a2a63,#1245a8)}
 }
 *{box-sizing:border-box}
-body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
-.wrap{max-width:900px;margin:0 auto;padding:0 18px}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55;padding-bottom:88px}
+h1,h2,h3,.logo,.stat,.score{font-family:"Bricolage Grotesque",Inter,system-ui,sans-serif}
+button{font-family:inherit}
+:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+.wrap{max-width:960px;margin:0 auto;padding:0 18px}
 header{position:sticky;top:0;z-index:20;background:var(--card);border-bottom:1px solid var(--line)}
-nav{display:flex;align-items:center;justify-content:space-between;height:58px}
-.logo{font-weight:800;letter-spacing:.12em;font-size:1.25rem;color:var(--b2);cursor:pointer;display:flex;align-items:center;gap:8px}
-.logo i{display:inline-block;width:26px;height:26px;border-radius:8px;background:linear-gradient(135deg,var(--b1),var(--b3))}
-.nav a{margin-left:16px;color:var(--muted);cursor:pointer;font-size:.93rem;font-weight:500}
-.nav a:hover{color:var(--b2)}
-.hero{background:linear-gradient(135deg,var(--b1),var(--b2));color:#fff;border-radius:20px;padding:42px 28px;margin:22px 0;box-shadow:var(--shadow)}
-.hero h1{margin:0 0 8px;font-size:clamp(1.7rem,5vw,2.5rem);line-height:1.15}
-.hero p{margin:0 0 20px;opacity:.92;max-width:560px}
-.btn{display:inline-block;border:0;cursor:pointer;background:var(--b2);color:#fff;padding:11px 22px;border-radius:12px;font-weight:600;font-size:.96rem;font-family:inherit}
+.topbar{display:flex;align-items:center;justify-content:space-between;height:60px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:800;font-size:1.3rem;letter-spacing:.04em;color:var(--ink);background:none;border:0;cursor:pointer;padding:0}
+.logo svg{width:32px;height:32px;display:block}
+.toplinks{display:none;gap:4px}
+.toplinks button{background:none;border:0;color:var(--muted);font:600 .94rem Inter,sans-serif;padding:8px 14px;border-radius:10px;cursor:pointer}
+.toplinks button:hover{color:var(--b2)}
+.toplinks .on{background:var(--soft);color:var(--b2)}
+.tabbar{position:fixed;left:0;right:0;bottom:0;z-index:30;display:flex;background:var(--card);border-top:1px solid var(--line);padding:6px 6px calc(6px + env(safe-area-inset-bottom))}
+.tabbar button{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;background:none;border:0;color:var(--muted);font:600 .72rem Inter,sans-serif;padding:6px 2px;cursor:pointer;border-radius:10px}
+.tabbar svg,.toplinks svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.toplinks svg{display:none}
+.tabbar .on{color:var(--b2)}
+@media(min-width:760px){.toplinks{display:flex}.tabbar{display:none}body{padding-bottom:0}}
+
+.hero{position:relative;overflow:hidden;margin:20px 0 18px;border-radius:22px;padding:40px 26px 100px;color:#fff;background:linear-gradient(135deg,#0B2545 0%,#10397A 58%,#155E9E 100%);box-shadow:var(--shadow)}
+.hero h1{font-size:clamp(2rem,7vw,3.3rem);line-height:1.08;margin:0 0 14px;max-width:16ch;letter-spacing:-.02em;font-weight:800}
+.hero p{margin:0 0 24px;max-width:46ch;color:#CFE0FA;font-size:1.04rem}
+.cta{display:flex;gap:10px;flex-wrap:wrap}
+.ecg{position:absolute;left:0;right:0;bottom:16px;width:100%;height:68px}
+.ecg{animation:reveal 2.4s .3s ease-out both}
+.ecg path{fill:none;stroke:#2DD4BF;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}
+@keyframes reveal{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+@media (prefers-reduced-motion:reduce){.ecg{animation:none}}
+
+.btn{display:inline-block;border:0;cursor:pointer;background:var(--b2);color:#fff;padding:12px 20px;border-radius:10px;font-weight:600;font-size:.96rem}
 .btn:hover{filter:brightness(1.08)}
-.btn.light{background:#fff;color:var(--b1)}
+.btn.light{background:#fff;color:#0B2545}
+.btn.outline{background:transparent;color:#fff;box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.55)}
 .btn.ghost{background:var(--soft);color:var(--b2)}
 .btn:disabled{opacity:.45;cursor:not-allowed}
-.grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+
 .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;box-shadow:var(--shadow)}
 .card h3{margin:0 0 6px}
-.stat{font-size:1.9rem;font-weight:800;color:var(--b2)}
+.grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);padding:0;overflow:hidden}
+.stats>div{background:var(--card);padding:18px}
+@media(max-width:620px){.stats{grid-template-columns:repeat(2,1fr)}}
+.stat{font-size:2rem;font-weight:800;color:var(--b2);line-height:1.1}
 .muted{color:var(--muted);font-size:.92rem}
-h2{margin:26px 0 12px}
+h2{margin:30px 0 12px;font-size:1.35rem;letter-spacing:-.01em}
+
+.modes{padding:4px 18px}
+.mode{display:flex;gap:14px;align-items:center;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--line);padding:16px 2px;cursor:pointer;color:var(--ink);font-size:1rem}
+.mode:last-child{border-bottom:0}
+.mode b{display:block;font-size:1rem}
+.mode span.d{display:block;color:var(--muted);font-size:.88rem}
+.mode .ic{flex:none;width:42px;height:42px;border-radius:12px;background:var(--soft);color:var(--b2);display:grid;place-items:center}
+.mode .ic svg,.mode .go svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.mode .go{margin-left:auto;color:var(--muted)}
+.mode .go svg{width:18px;height:18px}
+
 label{display:block;font-weight:600;margin:14px 0 6px;font-size:.92rem}
-select,input[type=number]{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);font-size:1rem;font-family:inherit}
+select,input[type=number]{width:100%;padding:11px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);font-size:1rem;font-family:inherit}
 .row{display:flex;gap:12px;flex-wrap:wrap}.row>*{flex:1;min-width:140px}
 .chk{display:flex;gap:8px;align-items:center;font-weight:500;margin-top:14px}
 .chk input{width:18px;height:18px}
 .tag{display:inline-block;background:var(--soft);color:var(--b2);border-radius:999px;padding:3px 11px;font-size:.78rem;font-weight:600;margin-right:6px}
 .bar{height:8px;background:var(--soft);border-radius:99px;overflow:hidden;margin:10px 0 16px}
-.bar>div{height:100%;background:linear-gradient(90deg,var(--b2),var(--b3));width:0;transition:width .25s}
-.qtext{font-size:1.08rem;margin:10px 0 16px;white-space:pre-wrap}
-.opt{display:flex;gap:12px;align-items:flex-start;width:100%;text-align:left;background:var(--card);color:var(--ink);border:1.5px solid var(--line);border-radius:12px;padding:12px 14px;margin:8px 0;cursor:pointer;font-size:1rem;font-family:inherit}
+.bar>div{height:100%;background:linear-gradient(90deg,var(--b2),var(--teal));width:0;transition:width .25s}
+.qtext{font-size:1.08rem;margin:12px 0 16px;white-space:pre-wrap}
+.opt{display:flex;gap:12px;align-items:flex-start;width:100%;text-align:left;background:var(--card);color:var(--ink);border:1.5px solid var(--line);border-radius:12px;padding:12px 14px;margin:8px 0;cursor:pointer;font-size:1rem}
 .opt:hover:not(:disabled){border-color:var(--b3);background:var(--soft)}
-.opt b{min-width:24px;height:24px;border-radius:50%;background:var(--soft);color:var(--b2);display:inline-flex;align-items:center;justify-content:center;font-size:.82rem;flex:none}
+.opt b{min-width:26px;height:26px;border-radius:8px;background:var(--soft);color:var(--b2);display:inline-flex;align-items:center;justify-content:center;font-size:.82rem;flex:none}
 .opt.sel{border-color:var(--b2);background:var(--soft)}
 .opt.ok{border-color:var(--ok);background:var(--okbg)}
 .opt.ko{border-color:var(--ko);background:var(--kobg)}
@@ -62,29 +98,30 @@ select,input[type=number]{width:100%;padding:10px 12px;border:1px solid var(--li
 .timer{font-variant-numeric:tabular-nums;font-weight:700;color:var(--b2)}
 .timer.low{color:var(--ko)}
 .top{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
-.score{font-size:3rem;font-weight:800;color:var(--b2);line-height:1}
-.sub{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid var(--line);font-size:.95rem}
+.score{font-size:3.2rem;font-weight:800;color:var(--b2);line-height:1}
+.sub{display:flex;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px solid var(--line);font-size:.95rem}
 .hidden{display:none}
 .nav-q{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}
-.nav-q button{width:34px;height:34px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;font-size:.82rem}
+.nav-q button{width:36px;height:36px;border-radius:9px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;font-size:.82rem}
 .nav-q .done{background:var(--soft);border-color:var(--b3)}.nav-q .cur{outline:2px solid var(--b2)}
 code,pre{background:var(--soft);border-radius:8px;font-size:.85rem}
 pre{padding:12px;overflow:auto}
-  .drop{border:2px dashed var(--b3);border-radius:16px;padding:26px;text-align:center;background:var(--soft)}
-.drop.over{background:var(--card);border-color:var(--b2)}
 footer{padding:30px 0 40px;color:var(--muted);font-size:.85rem;text-align:center}
 .notice{background:var(--kobg);border:1px solid var(--ko);color:var(--ink);padding:12px 14px;border-radius:12px;margin:12px 0}
+.drop{border:2px dashed var(--b3);border-radius:16px;padding:26px;text-align:center;background:var(--soft)}
+.drop.over{background:var(--card);border-color:var(--b2)}
 </style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
-<header><div class="wrap"><nav>
-  <div class="logo" onclick="go('home')"><i></i>STHETO</div>
-  <div class="nav"><a onclick="go('home')">Accueil</a><a onclick="go('practice')">Entraînement</a><a onclick="go('exam')">Examen blanc</a><a onclick="go('bank')">Importer</a></div>
-</nav></div></header>
+<header><div class="wrap topbar"><button class="logo" onclick="go('home')" aria-label="STHETO, accueil"><svg viewBox="0 0 32 32" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1F5FD8"/><stop offset="1" stop-color="#12A594"/></linearGradient></defs><rect width="32" height="32" rx="9" fill="url(#lg)"/><path d="M4 17h6l3-7 4 13 3-9 2 3h6" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>STHETO</button><nav class="toplinks" id="tl"></nav></div></header>
 
 <main class="wrap" id="app"></main>
 <footer class="wrap">STHETO · Outil d'entraînement. Vérifie toujours les protocoles auprès des sources officielles.</footer>
 
+<nav class="tabbar" id="tb"></nav>
 <script>
 /* ============ État & utilitaires ============ */
 const LS = { custom:'stheto_custom', hist:'stheto_history', wrong:'stheto_wrong' };
@@ -124,6 +161,7 @@ function rebuild(){
   ALL = [...map.values()];
 }
 async function load(){
+  buildNav();
   CUSTOM = read(LS.custom, []);
   try{
     const r = await fetch('questions.json', {cache:'no-store'});
@@ -142,30 +180,83 @@ function go(v){
   if(v!=='quiz' && v!=='results') S = null;
   window.scrollTo(0,0);
   ({home:vHome, practice:()=>vSetup('practice'), exam:()=>vSetup('exam'), bank:vBank, quiz:vQuiz, results:vResults}[v])();
+  markNav(v);
 }
 const view = html => { $('#app').innerHTML = html; };
 
+/* ============ Navigation (barre du haut + onglets mobiles) ============ */
+const ICONS = {
+  home:'<path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/>',
+  practice:'<rect x="4" y="3" width="16" height="18" rx="3"/><path d="M9 12l2 2 4-4"/>',
+  exam:'<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+  bank:'<path d="M12 16V4"/><path d="M7 9l5-5 5 5"/><path d="M4 16v3a1 1 0 001 1h14a1 1 0 001-1v-3"/>',
+  next:'<path d="M9 6l6 6-6 6"/>'
+};
+const ic = n => `<svg viewBox="0 0 24 24" aria-hidden="true">${ICONS[n]}</svg>`;
+const NAV = [['home','Accueil'],['practice','Entraînement'],['exam','Examen blanc'],['bank','Importer']];
+function buildNav(){
+  const html = NAV.map(([v,t])=>`<button data-v="${v}" onclick="go('${v}')">${ic(v)}<span>${t}</span></button>`).join('');
+  $('#tl').innerHTML = html; $('#tb').innerHTML = html;
+}
+function markNav(v){
+  const cur = (v==='quiz'||v==='results') ? (S?.mode==='exam'?'exam':'practice') : v;
+  document.querySelectorAll('[data-v]').forEach(b=>b.classList.toggle('on', b.dataset.v===cur));
+}
+
 /* ============ Accueil ============ */
+let TRY = null;
+function renderTry(fresh){
+  const el = $('#try'); if(!el) return;
+  if(!ALL.length){ el.innerHTML = '<p class="muted">Aucune question pour le moment. Ajoute des fichiers dans l\'onglet Importer.</p>'; return; }
+  if(fresh || !TRY) TRY = {q: ALL[Math.floor(Math.random()*ALL.length)], a:null};
+  const q = TRY.q, done = TRY.a!==null;
+  const opts = q.options.map((o,k)=>{
+    let cls='opt'; if(done){ if(k===q.answer) cls+=' ok'; else if(k===TRY.a) cls+=' ko'; }
+    return `<button class="${cls}" ${done?'disabled':''} onclick="tryPick(${k})"><b>${letters[k]}</b><span>${esc(o)}</span></button>`;
+  }).join('');
+  let ex = '';
+  if(done){
+    const good = TRY.a===q.answer;
+    ex = `<div class="expl ${good?'good':'bad'}"><b>${good?'Correct !':'Incorrect.'} Bonne réponse : ${letters[q.answer]}.</b>\n\n${esc(q.explanation||'Pas d’explication fournie.')}</div>
+          <p><button class="btn ghost" onclick="renderTry(true)">Autre question</button></p>`;
+  }
+  el.innerHTML = `<div><span class="tag">${esc(q.exam)}</span><span class="tag">${esc(q.subject)}</span></div><div class="qtext">${esc(q.question)}</div>${opts}${ex}`;
+}
+function tryPick(k){ if(!TRY || TRY.a!==null) return; TRY.a = k; renderTry(); }
+
 function vHome(){
   const h = read(LS.hist, []), wrong = read(LS.wrong, []);
   const tq = h.reduce((a,x)=>a+x.total,0), tc = h.reduce((a,x)=>a+x.correct,0);
   const avg = tq ? Math.round(100*tc/tq) : 0;
-  const recent = h.slice(-5).reverse().map(x=>`<div class="sub"><span>${esc(x.date)} · ${x.mode==='exam'?'Examen blanc':'Entraînement'}</span><b>${x.correct}/${x.total} (${Math.round(100*x.correct/x.total)}%)</b></div>`).join('') || '<p class="muted">Aucune session pour le moment.</p>';
+  const recent = h.slice(-5).reverse().map(x=>`<div class="sub"><span>${esc(x.date)} · ${x.mode==='exam'?'Examen blanc':'Entraînement'}</span><b>${x.correct}/${x.total} (${Math.round(100*x.correct/x.total)}%)</b></div>`).join('') || '<p class="muted">Aucune session pour le moment. Lance un entraînement pour voir ta progression ici.</p>';
+  const mode = (v,t,d) => `<button class="mode" onclick="go('${v}')"><span class="ic">${ic(v)}</span><span><b>${t}</b><span class="d">${d}</span></span><span class="go">${ic('next')}</span></button>`;
   view(`
   <section class="hero">
-    <h1>Prépare ton USMLE et ton résidanat</h1>
-    <p>Questions type USMLE Step 1 &amp; 2 et concours de résidanat, avec explications détaillées, scores et examens blancs.</p>
-    <button class="btn light" onclick="go('practice')">Commencer l'entraînement</button>
-    <button class="btn ghost" style="margin-left:8px" onclick="go('exam')">Examen blanc</button>
+    <h1>Entraîne-toi comme le jour du concours.</h1>
+    <p>Questions USMLE Step 1 et 2 et résidanat, corrigées en détail. Examens blancs chronométrés et score par matière.</p>
+    <div class="cta">
+      <button class="btn light" onclick="go('practice')">Commencer l'entraînement</button>
+      <button class="btn outline" onclick="go('exam')">Lancer un examen blanc</button>
+    </div>
+    <svg class="ecg" viewBox="0 0 600 70" preserveAspectRatio="none" aria-hidden="true"><path vector-effect="non-scaling-stroke" d="M0 38H110l12-3 10 3h24l8-28 12 58 12-46 8 16h52l10-3 10 3h30l8-30 12 60 12-48 8 18H600"/></svg>
   </section>
   ${loadError?`<div class="notice">${esc(loadError)}</div>`:''}
-  <div class="grid">
-    <div class="card"><div class="stat">${ALL.length}</div><div class="muted">questions disponibles</div></div>
-    <div class="card"><div class="stat">${h.length}</div><div class="muted">sessions réalisées</div></div>
-    <div class="card"><div class="stat">${avg}%</div><div class="muted">réussite moyenne</div></div>
-    <div class="card"><div class="stat">${wrong.length}</div><div class="muted">questions à revoir</div></div>
+  <div class="card stats">
+    <div><div class="stat">${ALL.length}</div><div class="muted">questions</div></div>
+    <div><div class="stat">${h.length}</div><div class="muted">sessions</div></div>
+    <div><div class="stat">${avg}%</div><div class="muted">réussite moyenne</div></div>
+    <div><div class="stat">${wrong.length}</div><div class="muted">à revoir</div></div>
+  </div>
+  <h2>Essaie une question</h2>
+  <div class="card" id="try"></div>
+  <h2>Choisis ton mode</h2>
+  <div class="card modes">
+    ${mode('practice','Entraînement','Correction et explication après chaque réponse.')}
+    ${mode('exam','Examen blanc','Minuteur, navigation libre, correction à la fin.')}
+    ${mode('bank','Importer des questions','Ajoute plusieurs fichiers JSON en une fois.')}
   </div>
   <h2>Dernières sessions</h2><div class="card">${recent}</div>`);
+  renderTry(true);
 }
 
 /* ============ Réglages (entraînement / examen) ============ */
@@ -221,7 +312,7 @@ function vQuiz(){
   let expl = '';
   if(!isExam && done){
     const good = S.ans[S.i]===q.answer;
-    expl = `<div class="expl ${good?'good':'bad'}"><b>${good?'Bonne réponse !':'Réponse incorrecte.'} Bonne réponse : ${letters[q.answer]}.</b>\n\n${esc(q.explanation||'Pas d’explication fournie pour cette question.')}</div>`;
+    expl = `<div class="expl ${good?'good':'bad'}"><b>${good?'Correct !':'Incorrect.'} Bonne réponse : ${letters[q.answer]}.</b>\n\n${esc(q.explanation||'Pas d’explication fournie pour cette question.')}</div>`;
   }
   const pct = Math.round(100*(S.i+(done?1:0))/S.list.length);
   const navq = isExam ? `<div class="nav-q">${S.list.map((_,k)=>`<button class="${S.ans[k]!==null?'done':''} ${k===S.i?'cur':''}" onclick="jump(${k})">${k+1}</button>`).join('')}</div>` : '';
