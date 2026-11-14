@@ -30567,5 +30567,3225 @@
     ],
     "answer": "A",
     "explanation": "Le plomb peut provoquer des douleurs abdominales, une constipation, des troubles neurodéveloppementaux et une anémie microcytaire avec ponctuations basophiles."
+  },
+  {
+    "id": "OB-001",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La gravidité correspond :",
+    "options": [
+      "A. Au nombre d’accouchements après 20 semaines",
+      "B. Au nombre de grossesses, quel qu’en soit le terme",
+      "C. Au nombre d’enfants vivants",
+      "D. Au nombre de fausses couches"
+    ],
+    "answer": "B",
+    "explanation": "La gravidité correspond au nombre total de grossesses, y compris la grossesse actuelle, quel que soit leur résultat."
+  },
+  {
+    "id": "OB-002",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La parité correspond :",
+    "options": [
+      "A. Au nombre total de grossesses",
+      "B. Au nombre de grossesses ayant atteint le seuil de viabilité",
+      "C. Au nombre d’enfants vivants uniquement",
+      "D. Au nombre de grossesses extra-utérines"
+    ],
+    "answer": "B",
+    "explanation": "La parité correspond au nombre de grossesses ayant abouti à une naissance au-delà du seuil défini par le système obstétrical utilisé."
+  },
+  {
+    "id": "OB-003",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Dans la notation TPAL, la lettre « T » représente :",
+    "options": [
+      "A. Le nombre de grossesses",
+      "B. Le nombre d’accouchements à terme",
+      "C. Le nombre de grossesses gémellaires",
+      "D. Le nombre d’enfants vivants"
+    ],
+    "answer": "B",
+    "explanation": "TPAL signifie : terme, prématurité, avortements et enfants vivants."
+  },
+  {
+    "id": "OB-004",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme G3P1 a :",
+    "options": [
+      "A. Eu trois enfants vivants",
+      "B. Eu trois grossesses et un accouchement au-delà du seuil de viabilité",
+      "C. Eu une seule grossesse",
+      "D. Eu trois fausses couches"
+    ],
+    "answer": "B",
+    "explanation": "G3 signifie trois grossesses au total. P1 signifie une grossesse ayant dépassé le seuil de viabilité."
+  },
+  {
+    "id": "OB-005",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’âge gestationnel est calculé à partir :",
+    "options": [
+      "A. De la fécondation",
+      "B. Du jour de l’implantation",
+      "C. Du premier jour des dernières règles",
+      "D. Du premier mouvement fœtal"
+    ],
+    "answer": "C",
+    "explanation": "L’âge gestationnel est calculé à partir du premier jour des dernières menstruations, soit environ deux semaines avant la fécondation."
+  },
+  {
+    "id": "OB-006",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une femme ayant des cycles réguliers, la méthode la plus fiable pour dater précocement la grossesse est :",
+    "options": [
+      "A. La hauteur utérine",
+      "B. La date des premiers mouvements fœtaux",
+      "C. La longueur cranio-caudale à l’échographie",
+      "D. La palpation abdominale"
+    ],
+    "answer": "C",
+    "explanation": "La longueur cranio-caudale mesurée au premier trimestre est la méthode échographique la plus précise pour dater la grossesse."
+  },
+  {
+    "id": "OB-007",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La hauteur utérine atteint généralement l’ombilic vers :",
+    "options": [
+      "A. 8 semaines",
+      "B. 12 semaines",
+      "C. 20 semaines",
+      "D. 32 semaines"
+    ],
+    "answer": "C",
+    "explanation": "Le fond utérin atteint approximativement l’ombilic vers 20 semaines d’aménorrhée."
+  },
+  {
+    "id": "OB-008",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Les bruits cardiaques fœtaux peuvent généralement être détectés par Doppler à partir de :",
+    "options": [
+      "A. 4 semaines",
+      "B. 6 semaines",
+      "C. 10 à 12 semaines",
+      "D. 20 semaines"
+    ],
+    "answer": "C",
+    "explanation": "Le Doppler permet habituellement d’entendre l’activité cardiaque fœtale vers 10 à 12 semaines."
+  },
+  {
+    "id": "OB-009",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Les premiers mouvements fœtaux sont généralement ressentis par la mère :",
+    "options": [
+      "A. À 6 semaines",
+      "B. Entre 10 et 12 semaines",
+      "C. Entre 17 et 20 semaines",
+      "D. Après 30 semaines"
+    ],
+    "answer": "C",
+    "explanation": "Les mouvements sont souvent ressentis vers 17 à 20 semaines, plus tôt chez une multipare."
+  },
+  {
+    "id": "OB-010",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une échographie du premier trimestre est principalement utilisée pour mesurer :",
+    "options": [
+      "A. Le diamètre bipariétal uniquement",
+      "B. La longueur cranio-caudale",
+      "C. La longueur du fémur uniquement",
+      "D. Le poids placentaire"
+    ],
+    "answer": "B",
+    "explanation": "La longueur cranio-caudale est utilisée précocement. Le diamètre bipariétal, la longueur fémorale et la circonférence abdominale sont surtout utilisés ensuite."
+  },
+  {
+    "id": "OB-011",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une femme dont les dernières règles sont incertaines, la meilleure méthode pour dater la grossesse est :",
+    "options": [
+      "A. Le dosage de β-hCG seul",
+      "B. La longueur cranio-caudale au premier trimestre",
+      "C. La hauteur utérine au troisième trimestre",
+      "D. Le premier mouvement fœtal"
+    ],
+    "answer": "B",
+    "explanation": "L’échographie précoce est plus précise que la date des règles lorsque celle-ci est incertaine."
+  },
+  {
+    "id": "OB-012",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’hormone détectée par les tests de grossesse est :",
+    "options": [
+      "A. La progestérone",
+      "B. L’hormone chorionique gonadotrope β-hCG",
+      "C. L’estriol",
+      "D. La prolactine"
+    ],
+    "answer": "B",
+    "explanation": "La β-hCG est produite par le trophoblaste après l’implantation."
+  },
+  {
+    "id": "OB-013",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La β-hCG est généralement détectable dans le sang :",
+    "options": [
+      "A. Le jour de la fécondation",
+      "B. Environ 8 à 10 jours après la fécondation",
+      "C. Après 20 semaines",
+      "D. Uniquement après les mouvements fœtaux"
+    ],
+    "answer": "B",
+    "explanation": "La β-hCG devient détectable peu après l’implantation, avant même le retard menstruel complet."
+  },
+  {
+    "id": "OB-014",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Au début d’une grossesse normale, la β-hCG :",
+    "options": [
+      "A. Diminue toutes les 48 heures",
+      "B. Double approximativement toutes les 48 heures",
+      "C. Reste toujours constante",
+      "D. N’est jamais détectable dans le sang"
+    ],
+    "answer": "B",
+    "explanation": "Une augmentation insuffisante ou anormale de la β-hCG peut évoquer une grossesse extra-utérine ou une grossesse non évolutive."
+  },
+  {
+    "id": "OB-015",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le sac gestationnel est généralement visible à l’échographie transvaginale vers :",
+    "options": [
+      "A. 2 semaines d’aménorrhée",
+      "B. 3 semaines d’aménorrhée",
+      "C. 5 semaines d’aménorrhée",
+      "D. 12 semaines d’aménorrhée"
+    ],
+    "answer": "C",
+    "explanation": "Le sac gestationnel est habituellement visible vers 5 semaines, en fonction du taux de β-hCG et de la qualité de l’échographie."
+  },
+  {
+    "id": "OB-016",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme présente une aménorrhée de 6 semaines. La β-hCG est positive et l’échographie transvaginale ne montre pas de grossesse intra-utérine. Quelle est l’étape la plus appropriée ?",
+    "options": [
+      "A. Conclure immédiatement à une grossesse extra-utérine",
+      "B. Répéter la β-hCG et l’échographie selon l’évolution clinique",
+      "C. Administrer du méthotrexate immédiatement à toutes les patientes",
+      "D. Réaliser une hystérectomie"
+    ],
+    "answer": "B",
+    "explanation": "Une échographie non concluante nécessite une interprétation avec la β-hCG quantitative, les symptômes et l’évolution. Une grossesse extra-utérine ne doit pas être affirmée sur un seul examen."
+  },
+  {
+    "id": "OB-017",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La grossesse entraîne normalement :",
+    "options": [
+      "A. Une diminution du débit cardiaque",
+      "B. Une augmentation du débit cardiaque",
+      "C. Une diminution du débit rénal",
+      "D. Une hypercoagulabilité absente"
+    ],
+    "answer": "B",
+    "explanation": "Le débit cardiaque augmente pour répondre aux besoins maternels et fœtaux. La grossesse constitue également un état d’hypercoagulabilité."
+  },
+  {
+    "id": "OB-018",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Pendant la grossesse, le débit de filtration glomérulaire :",
+    "options": [
+      "A. Diminue précocement",
+      "B. Augmente puis se stabilise",
+      "C. Ne change pas",
+      "D. Disparaît au troisième trimestre"
+    ],
+    "answer": "B",
+    "explanation": "L’augmentation du débit de filtration glomérulaire explique notamment une créatininémie physiologiquement plus basse pendant la grossesse."
+  },
+  {
+    "id": "OB-019",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une créatininémie considérée comme « normale » hors grossesse peut être préoccupante pendant la grossesse car :",
+    "options": [
+      "A. Le débit de filtration glomérulaire augmente",
+      "B. La masse musculaire augmente toujours",
+      "C. La créatinine devient non interprétable",
+      "D. La fonction rénale augmente uniquement après l’accouchement"
+    ],
+    "answer": "A",
+    "explanation": "La grossesse augmente le débit de filtration glomérulaire ; une créatininémie élevée doit donc être prise au sérieux."
+  },
+  {
+    "id": "OB-020",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La grossesse est associée à :",
+    "options": [
+      "A. Un état d’hypocoagulabilité",
+      "B. Un état d’hypercoagulabilité",
+      "C. Une diminution du fibrinogène",
+      "D. Une thrombopénie sévère constante"
+    ],
+    "answer": "B",
+    "explanation": "L’augmentation de plusieurs facteurs de coagulation protège contre l’hémorragie mais augmente le risque thromboembolique."
+  },
+  {
+    "id": "OB-021",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La prise de poids recommandée pendant la grossesse dépend principalement :",
+    "options": [
+      "A. Du groupe sanguin",
+      "B. De l’indice de masse corporelle avant la grossesse",
+      "C. Du sexe fœtal uniquement",
+      "D. Du nombre de consultations"
+    ],
+    "answer": "B",
+    "explanation": "Les recommandations de prise de poids sont adaptées à l’IMC prégestationnel."
+  },
+  {
+    "id": "OB-022",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une prise de poids maternelle insuffisante pendant la grossesse augmente le risque de :",
+    "options": [
+      "A. Macrosomie uniquement",
+      "B. Restriction de croissance intra-utérine",
+      "C. Grossesse molaire",
+      "D. Grossesse extra-utérine"
+    ],
+    "answer": "B",
+    "explanation": "Une mauvaise prise pondérale peut être associée à une insuffisance nutritionnelle et à une croissance fœtale insuffisante."
+  },
+  {
+    "id": "OB-023",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une prise de poids excessive pendant la grossesse augmente notamment le risque de :",
+    "options": [
+      "A. Diabète gestationnel",
+      "B. Microcéphalie infectieuse uniquement",
+      "C. Grossesse extra-utérine",
+      "D. Atrésie œsophagienne"
+    ],
+    "answer": "A",
+    "explanation": "L’excès pondéral augmente le risque de diabète gestationnel, de macrosomie et de complications obstétricales."
+  },
+  {
+    "id": "OB-024",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La supplémentation en acide folique vise principalement à réduire le risque de :",
+    "options": [
+      "A. Cardiomyopathie maternelle",
+      "B. Anomalies du tube neural",
+      "C. Prééclampsie uniquement",
+      "D. Grossesse extra-utérine"
+    ],
+    "answer": "B",
+    "explanation": "L’acide folique est particulièrement important avant la conception et au début de la grossesse."
+  },
+  {
+    "id": "OB-025",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une femme végétalienne enceinte, il faut particulièrement surveiller :",
+    "options": [
+      "A. La vitamine B12",
+      "B. La vitamine K uniquement",
+      "C. Le sodium uniquement",
+      "D. La bilirubine"
+    ],
+    "answer": "A",
+    "explanation": "Les régimes végétaliens exposent à un déficit en vitamine B12, qui peut avoir des conséquences neurologiques maternelles et fœtales."
+  },
+  {
+    "id": "OB-026",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une activité physique modérée pendant la grossesse est :",
+    "options": [
+      "A. Toujours interdite",
+      "B. Généralement recommandée en l’absence de contre-indication",
+      "C. Possible uniquement après l’accouchement",
+      "D. Réservée aux grossesses multiples"
+    ],
+    "answer": "B",
+    "explanation": "L’exercice modéré est généralement bénéfique. Les sports de contact et les activités à risque de traumatisme doivent être évités."
+  },
+  {
+    "id": "OB-027",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Quel organisme peut traverser le placenta et provoquer une infection congénitale ?",
+    "options": [
+      "A. Toxoplasma gondii",
+      "B. Staphylococcus epidermidis uniquement",
+      "C. Candida cutané uniquement",
+      "D. Rhinovirus uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Toxoplasma gondii peut traverser le placenta, surtout lors d’une primo-infection maternelle."
+  },
+  {
+    "id": "OB-028",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Les immunoglobulines maternelles qui traversent le placenta sont principalement :",
+    "options": [
+      "A. IgA",
+      "B. IgE",
+      "C. IgG",
+      "D. IgM"
+    ],
+    "answer": "C",
+    "explanation": "Les IgG traversent le placenta et confèrent une immunité passive au fœtus et au nouveau-né."
+  },
+  {
+    "id": "OB-029",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Quel vaccin vivant doit être évité pendant la grossesse ?",
+    "options": [
+      "A. Vaccin antitétanique inactivé",
+      "B. Vaccin antigrippal inactivé",
+      "C. Vaccin ROR",
+      "D. Vaccin contre l’hépatite B"
+    ],
+    "answer": "C",
+    "explanation": "Les vaccins vivants atténués, notamment ROR et varicelle, sont généralement contre-indiqués pendant la grossesse."
+  },
+  {
+    "id": "OB-030",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme non immunisée contre la rubéole doit idéalement être vaccinée :",
+    "options": [
+      "A. Pendant le premier trimestre",
+      "B. Pendant le travail",
+      "C. Après l’accouchement",
+      "D. Uniquement si elle allaite"
+    ],
+    "answer": "C",
+    "explanation": "Le vaccin contre la rubéole est vivant. Il est administré après l’accouchement si la patiente n’est pas immunisée."
+  },
+  {
+    "id": "OB-031",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le dépistage du diabète gestationnel est généralement réalisé entre :",
+    "options": [
+      "A. 4 et 8 semaines",
+      "B. 12 et 14 semaines chez toutes les femmes",
+      "C. 24 et 28 semaines",
+      "D. 38 et 40 semaines"
+    ],
+    "answer": "C",
+    "explanation": "La résistance à l’insuline augmente principalement durant le deuxième et le troisième trimestre."
+  },
+  {
+    "id": "OB-032",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le test initial de dépistage du diabète gestationnel est généralement :",
+    "options": [
+      "A. Une glycémie capillaire isolée",
+      "B. Un test de provocation au glucose d’une heure",
+      "C. Un dosage de β-hCG",
+      "D. Une glycémie après un repas libre"
+    ],
+    "answer": "B",
+    "explanation": "Le test de dépistage utilise habituellement 50 g de glucose avec mesure de la glycémie une heure plus tard."
+  },
+  {
+    "id": "OB-033",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente a un test de dépistage du diabète gestationnel anormal. L’étape suivante est :",
+    "options": [
+      "A. Une échographie cérébrale",
+      "B. Une hyperglycémie provoquée orale diagnostique",
+      "C. Une césarienne immédiate",
+      "D. Un dosage de prolactine"
+    ],
+    "answer": "B",
+    "explanation": "Le test de provocation anormal doit être confirmé par une épreuve diagnostique plus longue."
+  },
+  {
+    "id": "OB-034",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Lors du dépistage prénatal initial, on recherche notamment :",
+    "options": [
+      "A. Le groupe sanguin et le statut Rh",
+      "B. Uniquement la ferritine",
+      "C. La créatine kinase",
+      "D. Les anticorps antinucléaires chez toutes les patientes"
+    ],
+    "answer": "A",
+    "explanation": "Le groupe sanguin, le facteur Rh et la recherche d’anticorps sont essentiels pour prévenir l’allo-immunisation."
+  },
+  {
+    "id": "OB-035",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Quel examen est généralement réalisé à chaque visite prénatale ?",
+    "options": [
+      "A. Échographie complète",
+      "B. Mesure de la pression artérielle",
+      "C. Amniocentèse",
+      "D. Test de tolérance au glucose"
+    ],
+    "answer": "B",
+    "explanation": "La pression artérielle et la recherche de signes de prééclampsie font partie de la surveillance prénatale régulière."
+  },
+  {
+    "id": "OB-036",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le dépistage du streptocoque du groupe B est généralement réalisé :",
+    "options": [
+      "A. À 6 semaines",
+      "B. À 12 semaines",
+      "C. Entre 35 et 37 semaines",
+      "D. Après l’accouchement uniquement"
+    ],
+    "answer": "C",
+    "explanation": "Le dépistage permet d’identifier les femmes devant recevoir une prophylaxie antibiotique intrapartum."
+  },
+  {
+    "id": "OB-037",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le dépistage prénatal de la syphilis repose habituellement sur :",
+    "options": [
+      "A. RPR ou VDRL",
+      "B. Test de Coombs direct",
+      "C. Test de Schilling",
+      "D. Test à la sueur"
+    ],
+    "answer": "A",
+    "explanation": "Le RPR et le VDRL sont des tests de dépistage non tréponémiques qui doivent être confirmés si positifs."
+  },
+  {
+    "id": "OB-038",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une femme enceinte, le dépistage du VIH est :",
+    "options": [
+      "A. Inutile en l’absence de symptômes",
+      "B. Réalisé dans le bilan prénatal",
+      "C. Réservé aux femmes présentant une fièvre",
+      "D. Réservé au troisième trimestre uniquement"
+    ],
+    "answer": "B",
+    "explanation": "Le diagnostic précoce permet de réduire fortement le risque de transmission verticale grâce au traitement antirétroviral et aux mesures obstétricales adaptées."
+  },
+  {
+    "id": "OB-039",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le test non invasif prénatal analyse principalement :",
+    "options": [
+      "A. L’ADN fœtal libre circulant dans le sang maternel",
+      "B. Le liquide céphalorachidien maternel",
+      "C. Les cellules du col uniquement",
+      "D. Le tissu placentaire prélevé chirurgicalement"
+    ],
+    "answer": "A",
+    "explanation": "L’ADN fœtal libre circulant permet un dépistage de certaines aneuploïdies sans procédure invasive."
+  },
+  {
+    "id": "OB-040",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La clarté nucale est mesurée principalement entre :",
+    "options": [
+      "A. 4 et 6 semaines",
+      "B. 11 et 14 semaines",
+      "C. 20 et 24 semaines",
+      "D. 32 et 36 semaines"
+    ],
+    "answer": "B",
+    "explanation": "Une clarté nucale augmentée peut être associée à une aneuploïdie ou à une cardiopathie congénitale."
+  },
+  {
+    "id": "OB-041",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le dépistage combiné du premier trimestre comprend classiquement :",
+    "options": [
+      "A. PAPP-A, β-hCG libre et clarté nucale",
+      "B. AFP, inhibine A et estriol uniquement",
+      "C. Test de Coombs et RPR",
+      "D. Amniocentèse obligatoire"
+    ],
+    "answer": "A",
+    "explanation": "Le dépistage combiné associe l’échographie et des marqueurs sériques maternels."
+  },
+  {
+    "id": "OB-042",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Dans la trisomie 21, le dépistage quadruple montre typiquement :",
+    "options": [
+      "A. AFP diminuée, estriol diminué, β-hCG augmentée et inhibine A augmentée",
+      "B. Les quatre marqueurs diminués",
+      "C. AFP augmentée et inhibine A diminuée",
+      "D. β-hCG diminuée uniquement"
+    ],
+    "answer": "A",
+    "explanation": "La trisomie 21 donne classiquement le profil « deux bas, deux hauts » : AFP et estriol bas, β-hCG et inhibine A élevés."
+  },
+  {
+    "id": "OB-043",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Dans la trisomie 18, le dépistage quadruple montre généralement :",
+    "options": [
+      "A. Tous les marqueurs diminués",
+      "B. Tous les marqueurs augmentés",
+      "C. AFP et β-hCG élevés uniquement",
+      "D. Inhibine A élevée uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Le profil classique de la trisomie 18 associe une diminution de l’AFP, de l’estriol, de la β-hCG et de l’inhibine A."
+  },
+  {
+    "id": "OB-044",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une AFP maternelle élevée peut être associée à :",
+    "options": [
+      "A. Une anomalie ouverte du tube neural",
+      "B. Une trisomie 21 uniquement",
+      "C. Une grossesse extra-utérine",
+      "D. Une grossesse molaire uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Une AFP élevée peut également résulter d’une mauvaise datation, d’une grossesse multiple ou d’une anomalie de la paroi abdominale."
+  },
+  {
+    "id": "OB-045",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une AFP maternelle basse peut être observée dans :",
+    "options": [
+      "A. La trisomie 21",
+      "B. Le spina bifida ouvert uniquement",
+      "C. Une grossesse multiple",
+      "D. Une gastroschisis isolée"
+    ],
+    "answer": "A",
+    "explanation": "Une AFP basse est associée notamment aux trisomies 21 et 18, mais une mauvaise datation doit également être exclue."
+  },
+  {
+    "id": "OB-046",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme enceinte de 13 semaines présente une clarté nucale augmentée. Quelle est la meilleure étape suivante ?",
+    "options": [
+      "A. Rassurer sans examen complémentaire",
+      "B. Proposer un conseil génétique et un dépistage diagnostique adapté",
+      "C. Déclencher le travail",
+      "D. Administrer du méthotrexate"
+    ],
+    "answer": "B",
+    "explanation": "Une clarté nucale augmentée augmente le risque d’aneuploïdie et de malformation cardiaque. Un conseil génétique, un dépistage chromosomique et une échographie spécialisée sont indiqués."
+  },
+  {
+    "id": "OB-047",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le prélèvement de villosités choriales est généralement réalisé :",
+    "options": [
+      "A. À 4–6 semaines",
+      "B. À 10–13 semaines",
+      "C. À 20–24 semaines",
+      "D. Après 30 semaines"
+    ],
+    "answer": "B",
+    "explanation": "Le prélèvement de villosités choriales permet un diagnostic chromosomique précoce, mais ne détecte pas correctement les anomalies ouvertes du tube neural."
+  },
+  {
+    "id": "OB-048",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’amniocentèse diagnostique est habituellement réalisée :",
+    "options": [
+      "A. Avant 8 semaines",
+      "B. Entre 15 et 20 semaines",
+      "C. Après 35 semaines uniquement",
+      "D. Après l’accouchement"
+    ],
+    "answer": "B",
+    "explanation": "L’amniocentèse permet l’analyse cytogénétique du liquide amniotique et peut également mesurer l’AFP fœtale."
+  },
+  {
+    "id": "OB-049",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’avantage principal du prélèvement de villosités choriales par rapport à l’amniocentèse est :",
+    "options": [
+      "A. Il est réalisé plus tôt",
+      "B. Il ne comporte aucun risque",
+      "C. Il détecte mieux les anomalies du tube neural",
+      "D. Il ne nécessite pas d’échographie"
+    ],
+    "answer": "A",
+    "explanation": "Le prélèvement de villosités choriales fournit un diagnostic génétique plus précoce, mais ne permet pas d’évaluer directement le liquide amniotique."
+  },
+  {
+    "id": "OB-050",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’amniocentèse peut être indiquée en cas de :",
+    "options": [
+      "A. Dépistage prénatal anormal",
+      "B. Nausées matinales simples",
+      "C. Anémie maternelle légère isolée",
+      "D. Rhésus maternel positif uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Un dépistage anormal ou une clarté nucale augmentée peut justifier un test diagnostique invasif après conseil génétique."
+  },
+  {
+    "id": "OB-051",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Un rapport lécithine/sphingomyéline élevé dans le liquide amniotique indique :",
+    "options": [
+      "A. Une insuffisance placentaire",
+      "B. Une maturité pulmonaire fœtale",
+      "C. Une anomalie chromosomique",
+      "D. Une infection fœtale obligatoire"
+    ],
+    "answer": "B",
+    "explanation": "L’augmentation de la lécithine reflète la production de surfactant et la maturité pulmonaire."
+  },
+  {
+    "id": "OB-052",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Quel médicament est associé à une dysplasie rénale fœtale et à un oligohydramnios ?",
+    "options": [
+      "A. Paracétamol",
+      "B. Inhibiteur de l’enzyme de conversion",
+      "C. Fer oral",
+      "D. Acide folique"
+    ],
+    "answer": "B",
+    "explanation": "Les inhibiteurs de l’enzyme de conversion peuvent provoquer une atteinte rénale fœtale, un oligohydramnios et une insuffisance rénale néonatale."
+  },
+  {
+    "id": "OB-053",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’exposition fœtale à l’alcool peut provoquer :",
+    "options": [
+      "A. Un syndrome d’alcoolisation fœtale",
+      "B. Une macrosomie isolée",
+      "C. Une grossesse molaire",
+      "D. Une hernie diaphragmatique uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Le syndrome d’alcoolisation fœtale associe retard de croissance, anomalies faciales et atteinte neurodéveloppementale."
+  },
+  {
+    "id": "OB-054",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le lithium est associé à un risque accru de :",
+    "options": [
+      "A. Anomalie d’Ebstein",
+      "B. Spina bifida exclusivement",
+      "C. Surdité isolée",
+      "D. Atrésie intestinale uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Le lithium est classiquement associé aux malformations cardiaques, notamment l’anomalie d’Ebstein."
+  },
+  {
+    "id": "OB-055",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’acide valproïque augmente le risque de :",
+    "options": [
+      "A. Spina bifida",
+      "B. Hypoplasie pulmonaire uniquement",
+      "C. Atrésie duodénale uniquement",
+      "D. Syndrome de Turner"
+    ],
+    "answer": "A",
+    "explanation": "L’acide valproïque est un tératogène important associé aux anomalies du tube neural et à des troubles neurodéveloppementaux."
+  },
+  {
+    "id": "OB-056",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La warfarine peut provoquer chez le fœtus :",
+    "options": [
+      "A. Hypoplasie nasale et anomalies des épiphyses",
+      "B. Une macroglossie isolée",
+      "C. Une anencéphalie uniquement",
+      "D. Une maladie de Hirschsprung uniquement"
+    ],
+    "answer": "A",
+    "explanation": "L’embryopathie à la warfarine associe notamment hypoplasie nasale, anomalies osseuses et retard de croissance."
+  },
+  {
+    "id": "OB-057",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une exposition à la tétracycline pendant la grossesse peut provoquer :",
+    "options": [
+      "A. Une coloration dentaire permanente",
+      "B. Une paralysie faciale",
+      "C. Une atrophie cérébrale systématique",
+      "D. Une agénésie rénale obligatoire"
+    ],
+    "answer": "A",
+    "explanation": "La tétracycline se dépose dans les dents et les os en développement et peut provoquer une coloration dentaire."
+  },
+  {
+    "id": "OB-058",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme enceinte doit éviter de manipuler la litière d’un chat principalement pour prévenir :",
+    "options": [
+      "A. La toxoplasmose",
+      "B. La rubéole",
+      "C. La syphilis",
+      "D. L’hépatite B"
+    ],
+    "answer": "A",
+    "explanation": "Les excréments de chat peuvent contenir des oocystes de Toxoplasma gondii."
+  },
+  {
+    "id": "OB-059",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La toxoplasmose congénitale est classiquement associée à :",
+    "options": [
+      "A. Hydrocéphalie, calcifications intracrâniennes et choriorétinite",
+      "B. Cataracte, surdité et canal artériel",
+      "C. Cardiomyopathie et hypoglycémie",
+      "D. Atrésie duodénale et omphalocèle"
+    ],
+    "answer": "A",
+    "explanation": "Cette triade est classique, même si les manifestations peuvent être variables."
+  },
+  {
+    "id": "OB-060",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement classique de la toxoplasmose congénitale associe :",
+    "options": [
+      "A. Pyriméthamine et sulfadiazine",
+      "B. Ceftriaxone et vancomycine",
+      "C. Acyclovir et ganciclovir",
+      "D. Pénicilline uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Le traitement associe habituellement pyriméthamine, sulfadiazine et acide folinique selon les protocoles."
+  },
+  {
+    "id": "OB-061",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La rubéole congénitale est associée à :",
+    "options": [
+      "A. Cataracte, surdité et canal artériel persistant",
+      "B. Hydrocéphalie et choriorétinite uniquement",
+      "C. Fractures multiples",
+      "D. Sténose pylorique"
+    ],
+    "answer": "A",
+    "explanation": "Le syndrome de rubéole congénitale comprend la triade cataracte, surdité et cardiopathie, souvent un canal artériel persistant."
+  },
+  {
+    "id": "OB-062",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La meilleure prévention de la rubéole congénitale est :",
+    "options": [
+      "A. Vacciner la mère pendant le premier trimestre",
+      "B. Vacciner avant la grossesse",
+      "C. Administrer de l’acyclovir pendant la grossesse",
+      "D. Traiter le nouveau-né par pénicilline"
+    ],
+    "answer": "B",
+    "explanation": "Le vaccin contre la rubéole doit être administré avant la conception ou après l’accouchement chez une femme non immunisée."
+  },
+  {
+    "id": "OB-063",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le cytomégalovirus congénital peut provoquer :",
+    "options": [
+      "A. Calcifications périventriculaires et surdité",
+      "B. Une fente palatine uniquement",
+      "C. Une anomalie d’Ebstein",
+      "D. Une polydactylie isolée"
+    ],
+    "answer": "A",
+    "explanation": "Le CMV peut entraîner microcéphalie, calcifications périventriculaires, retard neurodéveloppemental et surdité."
+  },
+  {
+    "id": "OB-064",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’infection néonatale à HSV est le plus souvent transmise :",
+    "options": [
+      "A. Par le placenta dans tous les cas",
+      "B. Lors du passage dans le canal génital",
+      "C. Par l’eau potable",
+      "D. Par l’allaitement uniquement"
+    ],
+    "answer": "B",
+    "explanation": "La transmission intrapartum est la voie principale, surtout en présence de lésions génitales actives."
+  },
+  {
+    "id": "OB-065",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme à 39 semaines présente des vésicules génitales douloureuses au début du travail. Quelle est la prise en charge obstétricale appropriée ?",
+    "options": [
+      "A. Accouchement vaginal immédiat",
+      "B. Césarienne",
+      "C. Forceps systématique",
+      "D. Attendre la disparition des lésions sans traiter"
+    ],
+    "answer": "B",
+    "explanation": "Une infection herpétique génitale active au moment du travail expose le nouveau-né à une infection néonatale sévère."
+  },
+  {
+    "id": "OB-066",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La syphilis congénitale peut provoquer :",
+    "options": [
+      "A. Rhinite (« snuffles »), hépatosplénomégalie et lésions osseuses",
+      "B. Cataracte et canal artériel uniquement",
+      "C. Toux aboyante",
+      "D. Sténose pylorique"
+    ],
+    "answer": "A",
+    "explanation": "La syphilis congénitale peut provoquer une rhinite, une éruption, une hépatosplénomégalie et une ostéite."
+  },
+  {
+    "id": "OB-067",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement de la syphilis pendant la grossesse repose sur :",
+    "options": [
+      "A. La pénicilline",
+      "B. La doxycycline",
+      "C. L’acyclovir",
+      "D. Le métronidazole uniquement"
+    ],
+    "answer": "A",
+    "explanation": "La pénicilline est le traitement recommandé. En cas d’allergie, une désensibilisation est généralement réalisée."
+  },
+  {
+    "id": "OB-068",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’infection maternelle par le VIH peut être transmise :",
+    "options": [
+      "A. Uniquement pendant la grossesse",
+      "B. Pendant la grossesse, l’accouchement ou l’allaitement",
+      "C. Uniquement par le sperme",
+      "D. Seulement après l’âge de 1 an"
+    ],
+    "answer": "B",
+    "explanation": "Le traitement antirétroviral maternel, la prise en charge de l’accouchement et les mesures néonatales réduisent le risque de transmission."
+  },
+  {
+    "id": "OB-069",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une mère vivant avec le VIH, l’allaitement :",
+    "options": [
+      "A. Est toujours obligatoire",
+      "B. Peut augmenter le risque de transmission selon le contexte",
+      "C. Guérit l’infection du nouveau-né",
+      "D. Est le traitement préventif principal"
+    ],
+    "answer": "B",
+    "explanation": "Les recommandations d’allaitement dépendent des ressources, du traitement et des recommandations nationales. Dans plusieurs contextes, l’allaitement est évité pour réduire la transmission."
+  },
+  {
+    "id": "OB-070",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une fausse couche spontanée correspond à la perte d’une grossesse :",
+    "options": [
+      "A. Avant le seuil de viabilité",
+      "B. Après 40 semaines",
+      "C. Uniquement après rupture des membranes",
+      "D. Seulement lorsqu’elle nécessite une chirurgie"
+    ],
+    "answer": "A",
+    "explanation": "La définition exacte varie selon les recommandations, mais elle concerne généralement une perte avant 20 à 24 semaines."
+  },
+  {
+    "id": "OB-071",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La cause la plus fréquente de fausse couche précoce est :",
+    "options": [
+      "A. Une anomalie chromosomique",
+      "B. Une infection urinaire simple",
+      "C. Une carence en calcium",
+      "D. Une anomalie du placenta toujours visible"
+    ],
+    "answer": "A",
+    "explanation": "Les anomalies chromosomiques expliquent une grande proportion des pertes du premier trimestre."
+  },
+  {
+    "id": "OB-072",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une fausse couche menacée se caractérise par :",
+    "options": [
+      "A. Saignement, col fermé et activité cardiaque fœtale présente",
+      "B. Col ouvert et expulsion complète",
+      "C. Fièvre et écoulement purulent",
+      "D. Absence de grossesse à l’échographie"
+    ],
+    "answer": "A",
+    "explanation": "Le col reste fermé et la grossesse est encore viable à l’échographie."
+  },
+  {
+    "id": "OB-073",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une fausse couche incomplète se caractérise par :",
+    "options": [
+      "A. Expulsion complète des produits de conception",
+      "B. Rétention d’une partie des produits de conception",
+      "C. Absence de saignement",
+      "D. Grossesse intra-utérine viable avec col fermé"
+    ],
+    "answer": "B",
+    "explanation": "Une partie du tissu gestationnel est expulsée, mais il reste du tissu dans l’utérus."
+  },
+  {
+    "id": "OB-074",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une fausse couche inévitable est caractérisée par :",
+    "options": [
+      "A. Col fermé et absence de douleur",
+      "B. Col ouvert avec saignement, sans expulsion complète",
+      "C. Expulsion complète sans saignement",
+      "D. Fièvre isolée"
+    ],
+    "answer": "B",
+    "explanation": "L’ouverture cervicale et les contractions indiquent que la perte de grossesse ne peut plus être évitée."
+  },
+  {
+    "id": "OB-075",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une fausse couche septique doit être suspectée devant :",
+    "options": [
+      "A. Fièvre, douleurs pelviennes et écoulement malodorant",
+      "B. Saignement léger sans douleur",
+      "C. Nausées isolées",
+      "D. Col fermé avec activité cardiaque normale"
+    ],
+    "answer": "A",
+    "explanation": "La fausse couche septique est une urgence qui nécessite antibiothérapie IV et évacuation utérine."
+  },
+  {
+    "id": "OB-076",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une patiente Rh négatif qui fait une fausse couche, il faut envisager :",
+    "options": [
+      "A. La vaccination contre la rubéole uniquement",
+      "B. L’administration d’immunoglobulines anti-D",
+      "C. L’administration de vitamine K",
+      "D. L’injection de surfactant"
+    ],
+    "answer": "B",
+    "explanation": "Les immunoglobulines anti-D préviennent l’allo-immunisation Rh après un événement pouvant entraîner un passage de sang fœtal dans la circulation maternelle."
+  },
+  {
+    "id": "OB-077",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une grossesse non viable à l’échographie est suggérée par :",
+    "options": [
+      "A. Un sac gestationnel de grande taille sans embryon",
+      "B. Un embryon avec activité cardiaque normale",
+      "C. Une β-hCG positive uniquement",
+      "D. Un sac gestationnel de 5 mm avec vésicule vitelline"
+    ],
+    "answer": "A",
+    "explanation": "Un sac gestationnel très volumineux sans pôle embryonnaire ou l’absence d’activité cardiaque selon la longueur cranio-caudale évoquent une grossesse arrêtée."
+  },
+  {
+    "id": "OB-078",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente présente des douleurs pelviennes, une fièvre et un écoulement purulent après une interruption volontaire de grossesse. Le diagnostic prioritaire est :",
+    "options": [
+      "A. Avortement septique",
+      "B. Grossesse normale",
+      "C. Hyperémèse gravidique",
+      "D. Prééclampsie"
+    ],
+    "answer": "A",
+    "explanation": "La fièvre, l’écoulement purulent et l’instabilité éventuelle après une procédure évoquent une infection utérine nécessitant un traitement urgent."
+  },
+  {
+    "id": "OB-079",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement initial d’un avortement septique comprend :",
+    "options": [
+      "A. Antibiothérapie à large spectre et évacuation du contenu utérin",
+      "B. Observation seule",
+      "C. Aspirine",
+      "D. Tocolyse"
+    ],
+    "answer": "A",
+    "explanation": "Le tissu infecté doit être retiré après début de l’antibiothérapie et stabilisation de la patiente."
+  },
+  {
+    "id": "OB-080",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme ayant des fausses couches répétées doit être évaluée pour :",
+    "options": [
+      "A. Syndrome des antiphospholipides",
+      "B. Bronchiolite",
+      "C. Mucoviscidose",
+      "D. Otite moyenne"
+    ],
+    "answer": "A",
+    "explanation": "Le syndrome des antiphospholipides peut provoquer des pertes répétées, une insuffisance placentaire et des complications thrombotiques."
+  },
+  {
+    "id": "OB-081",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une patiente présentant un syndrome des antiphospholipides obstétrical, le traitement préventif comprend généralement :",
+    "options": [
+      "A. Aspirine faible dose et héparine",
+      "B. Warfarine pendant toute la grossesse",
+      "C. Méthotrexate",
+      "D. Aucun traitement"
+    ],
+    "answer": "A",
+    "explanation": "L’association aspirine faible dose et héparine réduit le risque de complications obstétricales liées à la thrombose placentaire."
+  },
+  {
+    "id": "OB-082",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une fausse couche tardive répétée évoque particulièrement :",
+    "options": [
+      "A. Une insuffisance cervicale",
+      "B. Une grossesse molaire uniquement",
+      "C. Une sténose pylorique",
+      "D. Une cardiomyopathie fœtale uniquement"
+    ],
+    "answer": "A",
+    "explanation": "L’insuffisance cervicale peut entraîner une dilatation indolore du col au deuxième trimestre."
+  },
+  {
+    "id": "OB-083",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente présente une dilatation cervicale indolore à 20 semaines avec membranes bombantes. Le diagnostic est :",
+    "options": [
+      "A. Insuffisance cervicale",
+      "B. Placenta prævia",
+      "C. Décollement placentaire",
+      "D. Grossesse extra-utérine"
+    ],
+    "answer": "A",
+    "explanation": "L’insuffisance cervicale est classiquement indolore et peut entraîner une perte tardive ou un accouchement prématuré."
+  },
+  {
+    "id": "OB-084",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement préventif de l’insuffisance cervicale peut être :",
+    "options": [
+      "A. Cerclage cervical",
+      "B. Méthotrexate",
+      "C. Hystérectomie",
+      "D. Amniotomie"
+    ],
+    "answer": "A",
+    "explanation": "Le cerclage peut être proposé selon les antécédents et la longueur cervicale."
+  },
+  {
+    "id": "OB-085",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente Rh négatif non sensibilisée reçoit habituellement une prophylaxie anti-D :",
+    "options": [
+      "A. À 28 semaines et après un accouchement d’un nouveau-né Rh positif",
+      "B. Uniquement après une grossesse molaire",
+      "C. Uniquement à 40 semaines",
+      "D. Jamais après une fausse couche"
+    ],
+    "answer": "A",
+    "explanation": "La prophylaxie est administrée en fin de deuxième trimestre et après tout événement à risque d’hémorragie fœto-maternelle."
+  },
+  {
+    "id": "OB-086",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le principal objectif de l’immunoglobuline anti-D est de prévenir :",
+    "options": [
+      "A. La toxoplasmose",
+      "B. L’allo-immunisation Rh",
+      "C. La prééclampsie",
+      "D. Le diabète gestationnel"
+    ],
+    "answer": "B",
+    "explanation": "Les anticorps anti-D empêchent la mère Rh négatif de développer ses propres anticorps contre les globules rouges fœtaux Rh positifs."
+  },
+  {
+    "id": "OB-087",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente enceinte présente un test de Coombs indirect positif avec un titre élevé. Cela signifie :",
+    "options": [
+      "A. Qu’elle est déjà sensibilisée",
+      "B. Qu’elle est protégée contre l’allo-immunisation",
+      "C. Qu’elle est forcément Rh positif",
+      "D. Qu’elle souffre d’une infection urinaire"
+    ],
+    "answer": "A",
+    "explanation": "Un test positif indique la présence d’anticorps maternels dirigés contre des antigènes érythrocytaires."
+  },
+  {
+    "id": "OB-088",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une complication sévère de l’allo-immunisation Rh est :",
+    "options": [
+      "A. Hydrops fœtal",
+      "B. Sténose pylorique",
+      "C. Macrosomie obligatoire",
+      "D. Polyhydramnios isolé"
+    ],
+    "answer": "A",
+    "explanation": "L’hémolyse fœtale sévère peut entraîner anémie, insuffisance cardiaque et accumulation de liquide dans plusieurs compartiments."
+  },
+  {
+    "id": "OB-089",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une grossesse extra-utérine tubaire survient le plus souvent dans :",
+    "options": [
+      "A. Le col",
+      "B. La trompe de Fallope",
+      "C. L’ovaire uniquement",
+      "D. La cavité abdominale dans la majorité des cas"
+    ],
+    "answer": "B",
+    "explanation": "Environ 95 % des grossesses extra-utérines sont tubaires."
+  },
+  {
+    "id": "OB-090",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La triade classique d’une grossesse extra-utérine comprend :",
+    "options": [
+      "A. Aménorrhée, douleur pelvienne et saignement vaginal",
+      "B. Fièvre, diarrhée et toux",
+      "C. Céphalée, hypertension et protéinurie",
+      "D. Vomissements, prurit et ictère"
+    ],
+    "answer": "A",
+    "explanation": "Cette triade est classique mais inconstante. Une grossesse extra-utérine peut être asymptomatique au début."
+  },
+  {
+    "id": "OB-091",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Quel facteur augmente le risque de grossesse extra-utérine ?",
+    "options": [
+      "A. Antécédent de maladie inflammatoire pelvienne",
+      "B. Supplémentation en acide folique",
+      "C. Vaccination contre la rubéole",
+      "D. Nulliparité seule"
+    ],
+    "answer": "A",
+    "explanation": "Les lésions tubaires liées aux infections pelviennes, à la chirurgie ou à l’endométriose augmentent le risque."
+  },
+  {
+    "id": "OB-092",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme de 7 semaines présente une douleur unilatérale intense, une hypotension et une douleur à la mobilisation cervicale. Quelle est la priorité ?",
+    "options": [
+      "A. Observation en consultation externe",
+      "B. Réanimation et chirurgie urgente",
+      "C. Test de dépistage du diabète",
+      "D. Tocolyse"
+    ],
+    "answer": "B",
+    "explanation": "L’instabilité hémodynamique suggère une rupture tubaire avec hémopéritoine, urgence vitale."
+  },
+  {
+    "id": "OB-093",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une patiente stable avec une petite grossesse extra-utérine non rompue, un traitement possible est :",
+    "options": [
+      "A. Méthotrexate",
+      "B. Ocytocine",
+      "C. Misoprostol seul dans tous les cas",
+      "D. Sulfate de magnésium"
+    ],
+    "answer": "A",
+    "explanation": "Le méthotrexate est utilisé chez des patientes sélectionnées, stables, sans rupture et avec un suivi possible de la β-hCG."
+  },
+  {
+    "id": "OB-094",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une contre-indication importante au méthotrexate est :",
+    "options": [
+      "A. Instabilité hémodynamique",
+      "B. Grossesse extra-utérine asymptomatique petite",
+      "C. β-hCG faible",
+      "D. Bonne fonction rénale"
+    ],
+    "answer": "A",
+    "explanation": "Une grossesse extra-utérine rompue nécessite une prise en charge chirurgicale urgente."
+  },
+  {
+    "id": "OB-095",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement chirurgical d’une grossesse extra-utérine peut comprendre :",
+    "options": [
+      "A. Salpingectomie ou salpingostomie",
+      "B. Hystérectomie systématique",
+      "C. Césarienne",
+      "D. Curetage endométrial uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Le choix dépend de l’état de la trompe, de la fertilité future et du contexte clinique."
+  },
+  {
+    "id": "OB-096",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une grossesse molaire complète est généralement caractérisée par :",
+    "options": [
+      "A. Un tissu fœtal normal",
+      "B. Une prolifération trophoblastique sans embryon viable",
+      "C. Un embryon avec activité cardiaque normale",
+      "D. Une β-hCG basse"
+    ],
+    "answer": "B",
+    "explanation": "La grossesse molaire complète ne contient généralement pas de tissu fœtal et est associée à une β-hCG très élevée."
+  },
+  {
+    "id": "OB-097",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’échographie d’une grossesse molaire complète montre classiquement :",
+    "options": [
+      "A. Une image en tempête de neige",
+      "B. Un sac gestationnel normal",
+      "C. Une grossesse extra-utérine",
+      "D. Une anomalie du tube neural"
+    ],
+    "answer": "A",
+    "explanation": "L’aspect en tempête de neige correspond aux villosités hydropiques et à la prolifération trophoblastique."
+  },
+  {
+    "id": "OB-098",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une complication évocatrice de grossesse molaire est :",
+    "options": [
+      "A. Prééclampsie avant 20–24 semaines",
+      "B. Hypoglycémie maternelle",
+      "C. Bradycardie fœtale isolée",
+      "D. Grossesse prolongée obligatoire"
+    ],
+    "answer": "A",
+    "explanation": "La prééclampsie très précoce, l’hyperémèse et un utérus plus grand que prévu doivent faire suspecter une maladie trophoblastique."
+  },
+  {
+    "id": "OB-099",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement initial d’une grossesse molaire consiste généralement à :",
+    "options": [
+      "A. Évacuation utérine par aspiration",
+      "B. Césarienne",
+      "C. Tocolyse prolongée",
+      "D. Antibiothérapie seule"
+    ],
+    "answer": "A",
+    "explanation": "L’évacuation utérine est suivie d’une surveillance régulière de la β-hCG pour détecter une maladie persistante."
+  },
+  {
+    "id": "OB-100",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Après l’évacuation d’une grossesse molaire, il faut :",
+    "options": [
+      "A. Suivre la β-hCG jusqu’à négativation durable",
+      "B. Ne réaliser aucun suivi",
+      "C. Administrer systématiquement de l’insuline",
+      "D. Effectuer une césarienne programmée"
+    ],
+    "answer": "A",
+    "explanation": "Une β-hCG persistante ou ascendante évoque une maladie trophoblastique persistante ou un choriocarcinome."
+  },
+  {
+    "id": "OB-101",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une grossesse molaire complète possède le plus souvent un caryotype :",
+    "options": [
+      "A. 46,XX d’origine paternelle",
+      "B. 45,X",
+      "C. 47,XXY",
+      "D. 69,XXX avec triploïdie"
+    ],
+    "answer": "A",
+    "explanation": "Elle résulte généralement de la fécondation d’un ovocyte vide par un spermatozoïde qui se duplique."
+  },
+  {
+    "id": "OB-102",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une grossesse molaire partielle est généralement associée à :",
+    "options": [
+      "A. Une triploïdie et la présence de tissu fœtal",
+      "B. Un caryotype 45,X",
+      "C. L’absence totale de tissu fœtal",
+      "D. Une grossesse toujours viable"
+    ],
+    "answer": "A",
+    "explanation": "La môle partielle résulte souvent de la fécondation d’un ovocyte normal par deux spermatozoïdes."
+  },
+  {
+    "id": "OB-103",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Les grossesses multiples sont associées à :",
+    "options": [
+      "A. Une croissance utérine plus rapide",
+      "B. Une diminution de la β-hCG",
+      "C. Une absence de risque prématuré",
+      "D. Une diminution de la surveillance prénatale"
+    ],
+    "answer": "A",
+    "explanation": "Les grossesses multiples augmentent le risque de prématurité, de restriction de croissance et de complications placentaires."
+  },
+  {
+    "id": "OB-104",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le diagnostic de grossesse multiple repose principalement sur :",
+    "options": [
+      "A. L’échographie",
+      "B. La palpation seule",
+      "C. La glycémie maternelle",
+      "D. Le test de Coombs"
+    ],
+    "answer": "A",
+    "explanation": "L’échographie confirme le nombre de fœtus et permet de déterminer la chorionicité et l’amnionicité."
+  },
+  {
+    "id": "OB-105",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Les grossesses monochoriales présentent un risque accru de :",
+    "options": [
+      "A. Syndrome transfusionnel fœto-fœtal",
+      "B. Grossesse extra-utérine",
+      "C. Sténose pylorique",
+      "D. Prééclampsie uniquement après l’accouchement"
+    ],
+    "answer": "A",
+    "explanation": "Les communications vasculaires placentaires des grossesses monochoriales peuvent entraîner un syndrome transfusionnel fœto-fœtal."
+  },
+  {
+    "id": "OB-106",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme présentant une grossesse gémellaire doit bénéficier :",
+    "options": [
+      "A. D’une surveillance obstétricale renforcée",
+      "B. D’aucune échographie après 12 semaines",
+      "C. D’une interdiction absolue de toute activité",
+      "D. D’un traitement systématique par méthotrexate"
+    ],
+    "answer": "A",
+    "explanation": "Les grossesses multiples nécessitent une surveillance de la croissance, du liquide amniotique et du bien-être fœtal."
+  },
+  {
+    "id": "OB-107",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le syndrome transfusionnel fœto-fœtal survient surtout dans :",
+    "options": [
+      "A. Les grossesses monochoriales diamniotiques",
+      "B. Les grossesses dizygotes séparées",
+      "C. Les grossesses extra-utérines",
+      "D. Les grossesses molaires complètes"
+    ],
+    "answer": "A",
+    "explanation": "Les anastomoses vasculaires placentaires sont présentes dans les grossesses partageant un placenta."
+  },
+  {
+    "id": "OB-108",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Un signe clinique de grossesse multiple est :",
+    "options": [
+      "A. Une hauteur utérine supérieure à l’âge gestationnel",
+      "B. Une β-hCG toujours indétectable",
+      "C. Une absence de prise pondérale",
+      "D. Une hypotension obligatoire"
+    ],
+    "answer": "A",
+    "explanation": "Un utérus plus volumineux que prévu doit faire rechercher une grossesse multiple, une grossesse molaire ou un hydramnios."
+  },
+  {
+    "id": "OB-109",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La principale cause de morbidité néonatale dans les grossesses multiples est :",
+    "options": [
+      "A. La prématurité",
+      "B. La cataracte congénitale",
+      "C. La sténose pylorique",
+      "D. L’hyperthyroïdie"
+    ],
+    "answer": "A",
+    "explanation": "Le risque de travail prématuré et de naissance avant terme est nettement augmenté."
+  },
+  {
+    "id": "OB-110",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une femme enceinte présentant une hauteur utérine excessive, il faut rechercher :",
+    "options": [
+      "A. Grossesse multiple, hydramnios ou grossesse molaire",
+      "B. Uniquement une insuffisance placentaire",
+      "C. Une grossesse extra-utérine uniquement",
+      "D. Une maladie rénale uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Une discordance entre la hauteur utérine et l’âge gestationnel possède plusieurs causes obstétricales."
+  },
+  {
+    "id": "OB-111",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La principale complication fœtale de l’alcool pendant la grossesse est :",
+    "options": [
+      "A. Syndrome d’alcoolisation fœtale",
+      "B. Maladie de Hirschsprung uniquement",
+      "C. Tumeur de Wilms",
+      "D. Arthrite néonatale"
+    ],
+    "answer": "A",
+    "explanation": "L’alcool peut provoquer retard de croissance, dysmorphie faciale et atteinte neurologique."
+  },
+  {
+    "id": "OB-112",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une exposition à la cocaïne pendant la grossesse augmente le risque de :",
+    "options": [
+      "A. Décollement placentaire et retard de croissance",
+      "B. Grossesse molaire uniquement",
+      "C. Macroglossie",
+      "D. Hypothyroïdie congénitale isolée"
+    ],
+    "answer": "A",
+    "explanation": "La cocaïne entraîne une vasoconstriction et augmente le risque d’insuffisance placentaire, de RCIU et de décollement placentaire."
+  },
+  {
+    "id": "OB-113",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La thalidomide est classiquement associée à :",
+    "options": [
+      "A. Phocomélie",
+      "B. Anomalie d’Ebstein uniquement",
+      "C. Spina bifida uniquement",
+      "D. Surdité isolée"
+    ],
+    "answer": "A",
+    "explanation": "La thalidomide provoque des anomalies sévères des membres, ainsi que des anomalies auriculaires, cardiaques et digestives."
+  },
+  {
+    "id": "OB-114",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le diéthylstilbestrol administré pendant la grossesse peut être associé chez la fille exposée à :",
+    "options": [
+      "A. Adénocarcinome vaginal à cellules claires",
+      "B. Décollement rétinien",
+      "C. Sténose pylorique",
+      "D. Hydrocéphalie uniquement"
+    ],
+    "answer": "A",
+    "explanation": "L’exposition in utero au DES est associée à des anomalies cervico-vaginales et à un risque d’adénocarcinome à cellules claires."
+  },
+  {
+    "id": "OB-115",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une femme enceinte, une radiographie diagnostique correctement réalisée :",
+    "options": [
+      "A. Est toujours tératogène",
+      "B. Peut être réalisée lorsque nécessaire avec protection adaptée",
+      "C. Provoque systématiquement une fausse couche",
+      "D. Est interdite dans tous les cas"
+    ],
+    "answer": "B",
+    "explanation": "Les examens radiologiques nécessaires ne doivent pas être refusés automatiquement. L’exposition doit être minimisée et justifiée."
+  },
+  {
+    "id": "OB-116",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente enceinte qui consomme de la viande insuffisamment cuite risque surtout :",
+    "options": [
+      "A. La toxoplasmose",
+      "B. La rubéole",
+      "C. La syphilis",
+      "D. Le VIH"
+    ],
+    "answer": "A",
+    "explanation": "Toxoplasma gondii peut être transmis par la viande crue ou insuffisamment cuite."
+  },
+  {
+    "id": "OB-117",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La meilleure mesure pour prévenir la listériose pendant la grossesse est :",
+    "options": [
+      "A. Éviter certains aliments à risque et les produits non pasteurisés",
+      "B. Prendre systématiquement de l’acyclovir",
+      "C. Éviter tous les produits céréaliers",
+      "D. Administrer du méthotrexate"
+    ],
+    "answer": "A",
+    "explanation": "La prévention repose sur l’hygiène alimentaire, notamment l’éviction des produits non pasteurisés et des aliments à risque."
+  },
+  {
+    "id": "OB-118",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une infection congénitale peut provoquer :",
+    "options": [
+      "A. Retard de croissance intra-utérin",
+      "B. Toujours une macrosomie",
+      "C. Toujours une grossesse prolongée",
+      "D. Une hypertension maternelle uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Les infections materno-fœtales peuvent provoquer RCIU, prématurité, anémie, ictère et atteinte neurologique."
+  },
+  {
+    "id": "OB-119",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente enceinte présente une primo-infection à varicelle. Le fœtus risque notamment :",
+    "options": [
+      "A. Syndrome de varicelle congénitale",
+      "B. Syndrome d’alcoolisation fœtale",
+      "C. Syndrome de Down obligatoire",
+      "D. Sténose pylorique"
+    ],
+    "answer": "A",
+    "explanation": "La varicelle maternelle peut provoquer des anomalies cutanées, neurologiques, oculaires et des membres chez le fœtus."
+  },
+  {
+    "id": "OB-120",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme enceinte non immunisée contre la varicelle doit recevoir le vaccin :",
+    "options": [
+      "A. Pendant la grossesse",
+      "B. Après l’accouchement",
+      "C. Pendant le travail uniquement",
+      "D. Uniquement si elle allaite"
+    ],
+    "answer": "B",
+    "explanation": "Le vaccin contre la varicelle est vivant et est généralement administré après l’accouchement chez les femmes non immunisées."
+  },
+  {
+    "id": "OB-121",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme G1P0 à 15 semaines présente des douleurs et un saignement léger. Le col est ouvert et des tissus sont visibles dans le vagin. Le diagnostic est :",
+    "options": [
+      "A. Fausse couche menacée",
+      "B. Fausse couche incomplète",
+      "C. Fausse couche complète",
+      "D. Grossesse molaire asymptomatique"
+    ],
+    "answer": "B",
+    "explanation": "Le col ouvert et l’expulsion partielle de produits de conception correspondent à une fausse couche incomplète."
+  },
+  {
+    "id": "OB-122",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez cette patiente, l’examen suivant le plus utile est :",
+    "options": [
+      "A. Échographie pour rechercher des produits retenus",
+      "B. Test de dépistage du diabète",
+      "C. IRM cérébrale",
+      "D. Test de Coombs direct uniquement"
+    ],
+    "answer": "A",
+    "explanation": "L’échographie détermine si la cavité utérine contient encore des produits de conception et guide le traitement."
+  },
+  {
+    "id": "OB-123",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une fausse couche complète se caractérise par :",
+    "options": [
+      "A. Col fermé, arrêt du saignement et cavité utérine vide",
+      "B. Col ouvert et produits retenus",
+      "C. Fièvre et écoulement purulent",
+      "D. Activité cardiaque fœtale persistante"
+    ],
+    "answer": "A",
+    "explanation": "Après l’expulsion complète, les douleurs et les saignements diminuent habituellement et l’échographie montre un utérus vide."
+  },
+  {
+    "id": "OB-124",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une grossesse arrêtée se caractérise par :",
+    "options": [
+      "A. Absence d’activité cardiaque fœtale avec produits de conception retenus",
+      "B. Expulsion complète avec utérus vide",
+      "C. Fièvre et douleur utérine",
+      "D. Col ouvert avec tissu visible"
+    ],
+    "answer": "A",
+    "explanation": "La grossesse est non viable mais reste dans l’utérus, parfois sans symptômes importants."
+  },
+  {
+    "id": "OB-125",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une femme présentant une fausse couche septique, il faut éviter :",
+    "options": [
+      "A. Les antibiotiques",
+      "B. L’évacuation utérine",
+      "C. L’évaluation hémodynamique",
+      "D. Le prélèvement des cultures"
+    ],
+    "answer": "B",
+    "explanation": "L’évacuation est au contraire nécessaire, mais elle doit être réalisée après le début de l’antibiothérapie et la stabilisation de la patiente."
+  },
+  {
+    "id": "OB-126",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une cause fréquente de fausses couches récurrentes est :",
+    "options": [
+      "A. Une anomalie chromosomique parentale équilibrée",
+      "B. Une rhinite allergique",
+      "C. Une carence isolée en sodium",
+      "D. Une otite chronique"
+    ],
+    "answer": "A",
+    "explanation": "Une translocation équilibrée chez l’un des parents peut produire des gamètes déséquilibrés et des pertes répétées."
+  },
+  {
+    "id": "OB-127",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le bilan d’une fausse couche récurrente peut comprendre :",
+    "options": [
+      "A. Caryotype parental, bilan antiphospholipide et évaluation anatomique utérine",
+      "B. Scanner cérébral systématique",
+      "C. Test de la sueur",
+      "D. Dosage de troponine"
+    ],
+    "answer": "A",
+    "explanation": "L’évaluation recherche des causes génétiques, thrombophiliques, immunologiques et anatomiques."
+  },
+  {
+    "id": "OB-128",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente ayant des douleurs, un saignement et un col ouvert à 10 semaines doit bénéficier en priorité de :",
+    "options": [
+      "A. Évaluation échographique et hémodynamique",
+      "B. Tocolyse systématique",
+      "C. Césarienne",
+      "D. Traitement par sulfate de magnésium"
+    ],
+    "answer": "A",
+    "explanation": "Il faut déterminer la viabilité, la quantité de tissu retenu et l’état clinique de la patiente."
+  },
+  {
+    "id": "OB-129",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement d’une grossesse non viable peut être :",
+    "options": [
+      "A. Expectatif, médical ou chirurgical selon la situation",
+      "B. Toujours une hystérectomie",
+      "C. Toujours une césarienne",
+      "D. Toujours une simple observation"
+    ],
+    "answer": "A",
+    "explanation": "Le choix dépend de l’âge gestationnel, de l’état hémodynamique, de l’infection, du saignement et de la préférence de la patiente."
+  },
+  {
+    "id": "OB-130",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une hémorragie importante avec instabilité lors d’une fausse couche impose :",
+    "options": [
+      "A. Stabilisation et évacuation urgente si nécessaire",
+      "B. Retour à domicile",
+      "C. Test de tolérance au glucose",
+      "D. Surveillance pendant plusieurs semaines sans intervention"
+    ],
+    "answer": "A",
+    "explanation": "L’hémorragie ou l’instabilité hémodynamique sont des indications de prise en charge urgente."
+  },
+  {
+    "id": "OB-131",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une grossesse extra-utérine doit être suspectée chez toute femme en âge de procréer présentant :",
+    "options": [
+      "A. Une douleur abdominale aiguë",
+      "B. Une rhinorrhée",
+      "C. Une toux isolée",
+      "D. Un prurit sans grossesse possible"
+    ],
+    "answer": "A",
+    "explanation": "Toute douleur abdominale chez une femme en âge de procréer nécessite un test de grossesse, même en l’absence d’aménorrhée connue."
+  },
+  {
+    "id": "OB-132",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le signe échographique le plus rassurant dans une grossesse précoce est :",
+    "options": [
+      "A. Sac gestationnel intra-utérin avec embryon et activité cardiaque",
+      "B. Utérus vide avec douleur intense",
+      "C. Masse annexielle complexe",
+      "D. Liquide libre abondant"
+    ],
+    "answer": "A",
+    "explanation": "La visualisation d’une grossesse intra-utérine évolutive réduit fortement la probabilité d’une grossesse extra-utérine, sauf situation exceptionnelle de grossesse hétérotopique."
+  },
+  {
+    "id": "OB-133",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente sous méthotrexate pour grossesse extra-utérine doit bénéficier :",
+    "options": [
+      "A. D’un suivi régulier de la β-hCG",
+      "B. D’un suivi uniquement de la tension artérielle",
+      "C. D’aucun contrôle",
+      "D. D’une échographie cérébrale hebdomadaire"
+    ],
+    "answer": "A",
+    "explanation": "La β-hCG doit diminuer selon une cinétique attendue. Une stagnation ou une augmentation suggère un échec thérapeutique."
+  },
+  {
+    "id": "OB-134",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une grossesse extra-utérine rompue peut provoquer :",
+    "options": [
+      "A. Un hémopéritoine",
+      "B. Une hypoglycémie isolée",
+      "C. Une ascite chronique bénigne",
+      "D. Une polyurie"
+    ],
+    "answer": "A",
+    "explanation": "La rupture tubaire provoque une hémorragie intra-abdominale potentiellement mortelle."
+  },
+  {
+    "id": "OB-135",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une patiente instable avec suspicion de grossesse extra-utérine, l’examen ne doit pas retarder :",
+    "options": [
+      "A. La réanimation et la chirurgie",
+      "B. Le test de dépistage du diabète",
+      "C. Le dépistage de la rubéole",
+      "D. La vaccination antigrippale"
+    ],
+    "answer": "A",
+    "explanation": "L’instabilité et les signes d’hémopéritoine imposent une prise en charge urgente sans attendre une imagerie complète."
+  },
+  {
+    "id": "OB-136",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La grossesse molaire est associée à :",
+    "options": [
+      "A. Une β-hCG souvent très élevée",
+      "B. Une β-hCG toujours indétectable",
+      "C. Une hypoglycémie fœtale",
+      "D. Un sac gestationnel normal avec embryon viable"
+    ],
+    "answer": "A",
+    "explanation": "La prolifération trophoblastique produit d’importantes quantités de β-hCG."
+  },
+  {
+    "id": "OB-137",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une hyperémèse sévère associée à une hauteur utérine excessive doit faire rechercher :",
+    "options": [
+      "A. Grossesse multiple ou grossesse molaire",
+      "B. Grossesse extra-utérine uniquement",
+      "C. Insuffisance cervicale",
+      "D. Travail prématuré"
+    ],
+    "answer": "A",
+    "explanation": "Les grossesses multiples et molaires sont associées à des taux élevés de β-hCG et à des vomissements importants."
+  },
+  {
+    "id": "OB-138",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Un kyste thèque-lutéinique bilatéral peut être observé dans :",
+    "options": [
+      "A. La grossesse molaire",
+      "B. La grossesse extra-utérine uniquement",
+      "C. La grossesse normale exclusivement",
+      "D. La rupture utérine"
+    ],
+    "answer": "A",
+    "explanation": "L’hyperstimulation ovarienne par des taux élevés de β-hCG peut provoquer des kystes thèque-lutéiniques."
+  },
+  {
+    "id": "OB-139",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La surveillance après grossesse molaire doit se poursuivre :",
+    "options": [
+      "A. Jusqu’à normalisation stable de la β-hCG",
+      "B. Jusqu’à disparition de la fièvre uniquement",
+      "C. Pendant une seule journée",
+      "D. Uniquement si la patiente est symptomatique"
+    ],
+    "answer": "A",
+    "explanation": "La surveillance prolongée permet de dépister une maladie trophoblastique persistante."
+  },
+  {
+    "id": "OB-140",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente avec maladie trophoblastique persistante peut nécessiter :",
+    "options": [
+      "A. Chimiothérapie",
+      "B. Insulinothérapie uniquement",
+      "C. Antibiothérapie courte",
+      "D. Tocolyse"
+    ],
+    "answer": "A",
+    "explanation": "Le méthotrexate ou la dactinomycine sont utilisés selon le risque et le type de maladie persistante."
+  },
+  {
+    "id": "OB-141",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La grossesse multiple augmente le risque de :",
+    "options": [
+      "A. Prééclampsie",
+      "B. Grossesse extra-utérine dans tous les cas",
+      "C. Hypothyroïdie fœtale obligatoire",
+      "D. Diminution de la hauteur utérine"
+    ],
+    "answer": "A",
+    "explanation": "Les grossesses multiples augmentent la masse placentaire et le risque de troubles hypertensifs."
+  },
+  {
+    "id": "OB-142",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une grossesse gémellaire monochoriale doit être surveillée pour :",
+    "options": [
+      "A. Le syndrome transfusionnel fœto-fœtal",
+      "B. La sténose pylorique maternelle",
+      "C. La maladie de Wilson",
+      "D. L’appendicite fœtale"
+    ],
+    "answer": "A",
+    "explanation": "Le partage du placenta expose à des communications vasculaires anormales entre les circulations fœtales."
+  },
+  {
+    "id": "OB-143",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente avec grossesse multiple et diminution des mouvements fœtaux doit bénéficier :",
+    "options": [
+      "A. D’une évaluation du bien-être fœtal",
+      "B. D’une simple réassurance",
+      "C. D’une sortie immédiate",
+      "D. D’un traitement par méthotrexate"
+    ],
+    "answer": "A",
+    "explanation": "La diminution des mouvements peut révéler une hypoxie, une restriction de croissance ou une complication placentaire."
+  },
+  {
+    "id": "OB-144",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Dans une grossesse normale, l’utérus augmente de volume principalement grâce :",
+    "options": [
+      "A. À l’hypertrophie et à l’hyperplasie du myomètre",
+      "B. À une accumulation permanente de sang",
+      "C. À une tumeur utérine",
+      "D. À un œdème inflammatoire"
+    ],
+    "answer": "A",
+    "explanation": "Les modifications hormonales entraînent une croissance importante du myomètre et de l’utérus."
+  },
+  {
+    "id": "OB-145",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La lombalgie du troisième trimestre est principalement liée :",
+    "options": [
+      "A. À la modification de la posture et au relâchement ligamentaire",
+      "B. À une infection rénale dans tous les cas",
+      "C. À une grossesse extra-utérine",
+      "D. À une hémorragie placentaire obligatoire"
+    ],
+    "answer": "A",
+    "explanation": "La croissance utérine, le déplacement du centre de gravité et l’action de la relaxine favorisent les douleurs lombaires."
+  },
+  {
+    "id": "OB-146",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une douleur lombaire associée à fièvre et douleur costo-vertébrale pendant la grossesse évoque :",
+    "options": [
+      "A. Une pyélonéphrite",
+      "B. Une lombalgie physiologique simple",
+      "C. Une grossesse molaire",
+      "D. Une dystocie de l’épaule"
+    ],
+    "answer": "A",
+    "explanation": "La fièvre et la douleur costo-vertébrale orientent vers une infection urinaire haute."
+  },
+  {
+    "id": "OB-147",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le dépistage de la bactériurie asymptomatique pendant la grossesse repose sur :",
+    "options": [
+      "A. Une culture d’urine",
+      "B. Une radiographie abdominale",
+      "C. Une ponction lombaire",
+      "D. Un dosage de β-hCG"
+    ],
+    "answer": "A",
+    "explanation": "La bactériurie asymptomatique doit être recherchée car elle peut évoluer vers une pyélonéphrite et augmenter le risque de prématurité."
+  },
+  {
+    "id": "OB-148",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une bactériurie asymptomatique non traitée pendant la grossesse augmente le risque de :",
+    "options": [
+      "A. Pyélonéphrite",
+      "B. Grossesse molaire",
+      "C. Anomalie d’Ebstein",
+      "D. Môle partielle uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Les modifications urinaires de la grossesse favorisent la progression d’une bactériurie vers une infection symptomatique."
+  },
+  {
+    "id": "OB-149",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement d’une pyélonéphrite pendant la grossesse nécessite généralement :",
+    "options": [
+      "A. Hospitalisation et antibiotiques IV",
+      "B. Aucun traitement",
+      "C. Antibiotique topique",
+      "D. Méthotrexate"
+    ],
+    "answer": "A",
+    "explanation": "La pyélonéphrite expose à la septicémie, au travail prématuré et à l’insuffisance respiratoire ; elle doit être traitée par voie IV."
+  },
+  {
+    "id": "OB-150",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme enceinte présentant une infection urinaire doit être suivie par :",
+    "options": [
+      "A. Une culture de contrôle après traitement",
+      "B. Une radiographie thoracique uniquement",
+      "C. Un test de grossesse",
+      "D. Une mesure de la hauteur utérine uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Une culture de contrôle permet de vérifier l’éradication de l’infection, surtout pendant la grossesse."
+  },
+  {
+    "id": "OB-151",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme enceinte présentant une température élevée, des frissons et une douleur lombaire doit être évaluée rapidement pour :",
+    "options": [
+      "A. Une pyélonéphrite et une septicémie",
+      "B. Une grossesse molaire uniquement",
+      "C. Une fausse couche complète",
+      "D. Une insuffisance cervicale"
+    ],
+    "answer": "A",
+    "explanation": "La pyélonéphrite gravidique peut évoluer rapidement vers une infection systémique et un travail prématuré."
+  },
+  {
+    "id": "OB-152",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une infection urinaire pendant la grossesse peut être associée à :",
+    "options": [
+      "A. Un travail prématuré",
+      "B. Une diminution obligatoire du risque néonatal",
+      "C. Une grossesse prolongée",
+      "D. Une absence de complications"
+    ],
+    "answer": "A",
+    "explanation": "L’infection et l’inflammation peuvent stimuler les contractions et augmenter le risque de prématurité."
+  },
+  {
+    "id": "OB-153",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une femme enceinte présentant une dysurie, l’examen diagnostique initial est :",
+    "options": [
+      "A. Analyse d’urine et culture",
+      "B. IRM cérébrale",
+      "C. Amniocentèse",
+      "D. Test de dépistage de la trisomie 21 uniquement"
+    ],
+    "answer": "A",
+    "explanation": "L’analyse et la culture permettent d’identifier une infection et d’adapter le traitement antibiotique."
+  },
+  {
+    "id": "OB-154",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une fièvre maternelle pendant la grossesse peut entraîner :",
+    "options": [
+      "A. Une tachycardie fœtale",
+      "B. Une bradycardie fœtale obligatoire",
+      "C. Une absence de mouvements fœtaux définitive",
+      "D. Une grossesse molaire"
+    ],
+    "answer": "A",
+    "explanation": "La fièvre maternelle est une cause fréquente de tachycardie fœtale."
+  },
+  {
+    "id": "OB-155",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le terme « hémorragie antepartum » désigne un saignement :",
+    "options": [
+      "A. Avant 12 semaines uniquement",
+      "B. Après 20 semaines de grossesse",
+      "C. Seulement après l’accouchement",
+      "D. Uniquement pendant le travail"
+    ],
+    "answer": "B",
+    "explanation": "Les principales causes après 20 semaines sont le décollement placentaire et le placenta prævia."
+  },
+  {
+    "id": "OB-156",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Un saignement rouge vif, indolore et récurrent au troisième trimestre évoque :",
+    "options": [
+      "A. Placenta prævia",
+      "B. Décollement placentaire",
+      "C. Rupture utérine",
+      "D. Travail prématuré uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Le placenta prævia provoque classiquement un saignement indolore et rouge vif."
+  },
+  {
+    "id": "OB-157",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Un saignement douloureux avec utérus dur et contractile évoque :",
+    "options": [
+      "A. Décollement placentaire",
+      "B. Placenta prævia",
+      "C. Vasa prævia isolée",
+      "D. Fausse couche complète"
+    ],
+    "answer": "A",
+    "explanation": "Le décollement placentaire associe douleur abdominale, hypertonie utérine et saignement souvent sombre."
+  },
+  {
+    "id": "OB-158",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "En cas de saignement au troisième trimestre, il faut éviter avant l’échographie :",
+    "options": [
+      "A. Le toucher vaginal digital",
+      "B. La mesure de la pression artérielle",
+      "C. La surveillance fœtale",
+      "D. La pose d’une voie veineuse"
+    ],
+    "answer": "A",
+    "explanation": "Un toucher vaginal en cas de placenta prævia peut provoquer une hémorragie massive."
+  },
+  {
+    "id": "OB-159",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le meilleur examen pour localiser le placenta en cas de saignement indolore est :",
+    "options": [
+      "A. Échographie obstétricale",
+      "B. Radiographie abdominale",
+      "C. Scanner cérébral",
+      "D. Test au glucose"
+    ],
+    "answer": "A",
+    "explanation": "L’échographie transabdominale ou transvaginale permet de localiser le placenta et de rechercher un placenta prævia."
+  },
+  {
+    "id": "OB-160",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Un facteur de risque classique du placenta prævia est :",
+    "options": [
+      "A. Antécédent de césarienne",
+      "B. Nulliparité uniquement",
+      "C. Grossesse extra-utérine précédente uniquement",
+      "D. Régime végétarien"
+    ],
+    "answer": "A",
+    "explanation": "Les césariennes antérieures, la multiparité, les grossesses multiples et l’âge maternel avancé augmentent le risque."
+  },
+  {
+    "id": "OB-161",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Un facteur de risque du décollement placentaire est :",
+    "options": [
+      "A. Hypertension artérielle",
+      "B. Vaccination antigrippale",
+      "C. Supplémentation en acide folique",
+      "D. Rhésus négatif isolé"
+    ],
+    "answer": "A",
+    "explanation": "L’hypertension, le tabagisme, la cocaïne et les antécédents de décollement sont des facteurs de risque importants."
+  },
+  {
+    "id": "OB-162",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une complication grave du décollement placentaire est :",
+    "options": [
+      "A. Coagulation intravasculaire disséminée",
+      "B. Hypoglycémie isolée",
+      "C. Sténose pylorique",
+      "D. Cataracte congénitale"
+    ],
+    "answer": "A",
+    "explanation": "Le décollement sévère peut entraîner une activation massive de la coagulation et une CIVD."
+  },
+  {
+    "id": "OB-163",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une hémorragie fœtale aiguë lors de la rupture des membranes avec bradycardie fœtale évoque :",
+    "options": [
+      "A. Vasa prævia",
+      "B. Placenta prævia classique",
+      "C. Hyperémèse gravidique",
+      "D. Prééclampsie"
+    ],
+    "answer": "A",
+    "explanation": "Des vaisseaux fœtaux non protégés peuvent traverser les membranes et se rompre lors de la rupture des membranes."
+  },
+  {
+    "id": "OB-164",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La prise en charge d’une vasa prævia avec saignement aigu et bradycardie fœtale est :",
+    "options": [
+      "A. Césarienne d’urgence",
+      "B. Observation à domicile",
+      "C. Tocolyse seule",
+      "D. Accouchement vaginal systématique"
+    ],
+    "answer": "A",
+    "explanation": "Le fœtus peut rapidement exsanguiner. Une extraction urgente est nécessaire."
+  },
+  {
+    "id": "OB-165",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente présentant un placenta prævia doit être informée d’éviter :",
+    "options": [
+      "A. Les rapports sexuels et les touchers vaginaux non nécessaires",
+      "B. Toute hydratation",
+      "C. Le repos",
+      "D. Les échographies"
+    ],
+    "answer": "A",
+    "explanation": "Les manipulations cervicales peuvent déclencher une hémorragie."
+  },
+  {
+    "id": "OB-166",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le placenta accreta correspond à :",
+    "options": [
+      "A. Une invasion anormale du placenta dans le myomètre",
+      "B. Une rupture des membranes",
+      "C. Une infection placentaire",
+      "D. Une grossesse extra-utérine"
+    ],
+    "answer": "A",
+    "explanation": "Dans le placenta accreta, le placenta adhère anormalement au myomètre en raison d’une absence ou d’une anomalie de la décidua."
+  },
+  {
+    "id": "OB-167",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le risque de placenta accreta augmente avec :",
+    "options": [
+      "A. Placenta prævia et césariennes antérieures",
+      "B. Une grossesse sans antécédent",
+      "C. Une supplémentation en fer",
+      "D. Une vaccination ancienne"
+    ],
+    "answer": "A",
+    "explanation": "L’association placenta prævia et césarienne antérieure est particulièrement à risque."
+  },
+  {
+    "id": "OB-168",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le principal danger d’un placenta accreta est :",
+    "options": [
+      "A. Hémorragie massive lors de la délivrance",
+      "B. Hypoglycémie maternelle",
+      "C. Sténose du pylore fœtal",
+      "D. Infection urinaire bénigne"
+    ],
+    "answer": "A",
+    "explanation": "Le placenta ne se décolle pas normalement et peut provoquer une hémorragie sévère."
+  },
+  {
+    "id": "OB-169",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "En cas de placenta prævia connu, l’accouchement est généralement réalisé :",
+    "options": [
+      "A. Par césarienne si le placenta recouvre l’orifice cervical",
+      "B. Toujours par voie vaginale",
+      "C. Par forceps systématique",
+      "D. Par extraction fœtale à 20 semaines"
+    ],
+    "answer": "A",
+    "explanation": "Un placenta recouvrant l’orifice cervical empêche un accouchement vaginal sûr."
+  },
+  {
+    "id": "OB-170",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une douleur abdominale sévère avec perte de la station fœtale chez une femme ayant une cicatrice utérine évoque :",
+    "options": [
+      "A. Rupture utérine",
+      "B. Hyperémèse",
+      "C. Placenta prævia isolé",
+      "D. Grossesse molaire"
+    ],
+    "answer": "A",
+    "explanation": "La perte de la station et la palpation de parties fœtales dans l’abdomen sont des signes très évocateurs."
+  },
+  {
+    "id": "OB-171",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La rupture utérine nécessite :",
+    "options": [
+      "A. Laparotomie urgente",
+      "B. Surveillance simple",
+      "C. Tocolyse",
+      "D. Traitement oral par fer uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Elle expose à une hémorragie maternelle et à une hypoxie fœtale sévère."
+  },
+  {
+    "id": "OB-172",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La restriction de croissance intra-utérine est généralement définie par un poids fœtal estimé :",
+    "options": [
+      "A. Inférieur au 10e percentile",
+      "B. Supérieur au 90e percentile",
+      "C. Toujours inférieur à 500 g",
+      "D. Supérieur au 95e percentile"
+    ],
+    "answer": "A",
+    "explanation": "Le RCIU correspond à une croissance fœtale inférieure aux attentes, souvent définie par un poids estimé sous le 10e percentile."
+  },
+  {
+    "id": "OB-173",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le RCIU symétrique est associé notamment à :",
+    "options": [
+      "A. Anomalies chromosomiques ou infections précoces",
+      "B. Hypertension maternelle tardive uniquement",
+      "C. Diabète gestationnel isolé uniquement",
+      "D. Travail prolongé"
+    ],
+    "answer": "A",
+    "explanation": "Les atteintes précoces affectent proportionnellement le corps et le cerveau."
+  },
+  {
+    "id": "OB-174",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le RCIU asymétrique est souvent lié à :",
+    "options": [
+      "A. Insuffisance utéroplacentaire",
+      "B. Anomalie chromosomique précoce uniquement",
+      "C. Infection congénitale obligatoire",
+      "D. Grossesse molaire"
+    ],
+    "answer": "A",
+    "explanation": "L’insuffisance placentaire redistribue le débit sanguin vers les organes essentiels, notamment le cerveau."
+  },
+  {
+    "id": "OB-175",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’examen initial d’un RCIU suspecté est :",
+    "options": [
+      "A. Échographie obstétricale",
+      "B. Radiographie abdominale",
+      "C. Électroencéphalogramme maternel",
+      "D. Test au ruban adhésif"
+    ],
+    "answer": "A",
+    "explanation": "L’échographie évalue la croissance, le liquide amniotique et le Doppler ombilical."
+  },
+  {
+    "id": "OB-176",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Un Doppler ombilical anormal dans le RCIU peut montrer :",
+    "options": [
+      "A. Une diminution ou une inversion du flux diastolique",
+      "B. Une augmentation obligatoire du flux diastolique",
+      "C. Une absence de flux maternel uniquement",
+      "D. Une tachycardie maternelle uniquement"
+    ],
+    "answer": "A",
+    "explanation": "La diminution ou l’inversion du flux diastolique traduit une résistance placentaire accrue et une insuffisance placentaire sévère."
+  },
+  {
+    "id": "OB-177",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La macrosomie fœtale est particulièrement associée à :",
+    "options": [
+      "A. Diabète maternel",
+      "B. Toxoplasmose congénitale",
+      "C. Insuffisance placentaire",
+      "D. Oligohydramnios isolé"
+    ],
+    "answer": "A",
+    "explanation": "L’hyperglycémie maternelle entraîne une hyperinsulinémie fœtale et une croissance excessive."
+  },
+  {
+    "id": "OB-178",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une complication de la macrosomie est :",
+    "options": [
+      "A. Dystocie des épaules",
+      "B. Microcéphalie systématique",
+      "C. Hydrocéphalie obligatoire",
+      "D. Décollement rétinien"
+    ],
+    "answer": "A",
+    "explanation": "La macrosomie augmente le risque de dystocie des épaules et de lésions du plexus brachial."
+  },
+  {
+    "id": "OB-179",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une femme diabétique, une césarienne prophylactique peut être envisagée lorsque le poids fœtal estimé est supérieur à :",
+    "options": [
+      "A. 2 500 g",
+      "B. 3 000 g",
+      "C. 4 500 g",
+      "D. 6 500 g"
+    ],
+    "answer": "C",
+    "explanation": "Le seuil généralement retenu est plus bas chez la femme diabétique en raison du risque de dystocie des épaules."
+  },
+  {
+    "id": "OB-180",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le polyhydramnios correspond à un indice de liquide amniotique :",
+    "options": [
+      "A. Inférieur à 2 cm",
+      "B. Inférieur à 5 cm",
+      "C. Supérieur ou égal à 25 cm",
+      "D. Toujours égal à zéro"
+    ],
+    "answer": "C",
+    "explanation": "Le polyhydramnios est défini par un excès de liquide amniotique, souvent avec un AFI ≥25 cm."
+  },
+  {
+    "id": "OB-181",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une cause fœtale de polyhydramnios est :",
+    "options": [
+      "A. Atrésie duodénale",
+      "B. Agénésie rénale bilatérale",
+      "C. Insuffisance placentaire",
+      "D. Oligohydramnios"
+    ],
+    "answer": "A",
+    "explanation": "Les anomalies empêchant la déglutition fœtale, comme l’atrésie duodénale, entraînent une accumulation de liquide."
+  },
+  {
+    "id": "OB-182",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une cause maternelle de polyhydramnios est :",
+    "options": [
+      "A. Diabète maternel",
+      "B. Hypothyroïdie uniquement",
+      "C. Anémie ferriprive légère uniquement",
+      "D. Rhésus positif"
+    ],
+    "answer": "A",
+    "explanation": "Le diabète maternel est une cause fréquente d’hydramnios."
+  },
+  {
+    "id": "OB-183",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une complication du polyhydramnios est :",
+    "options": [
+      "A. Prolapsus du cordon",
+      "B. Diminution obligatoire du risque prématuré",
+      "C. Compression placentaire permanente",
+      "D. Grossesse extra-utérine"
+    ],
+    "answer": "A",
+    "explanation": "L’excès de liquide favorise la malprésentation, la rupture des membranes et le prolapsus du cordon."
+  },
+  {
+    "id": "OB-184",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’oligohydramnios correspond à un AFI :",
+    "options": [
+      "A. Inférieur à 5 cm",
+      "B. Supérieur à 25 cm",
+      "C. Toujours supérieur à 30 cm",
+      "D. Égal à 50 cm"
+    ],
+    "answer": "A",
+    "explanation": "L’oligohydramnios peut résulter d’une rupture des membranes, d’une insuffisance placentaire ou d’une anomalie urinaire fœtale."
+  },
+  {
+    "id": "OB-185",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une cause fœtale d’oligohydramnios est :",
+    "options": [
+      "A. Agénésie rénale bilatérale",
+      "B. Atrésie œsophagienne",
+      "C. Diabète maternel uniquement",
+      "D. Macrosomie isolée"
+    ],
+    "answer": "A",
+    "explanation": "Les reins fœtaux produisent une grande partie du liquide amniotique durant la deuxième moitié de la grossesse."
+  },
+  {
+    "id": "OB-186",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’oligohydramnios augmente le risque de :",
+    "options": [
+      "A. Compression du cordon et hypoplasie pulmonaire",
+      "B. Macrosomie obligatoire",
+      "C. Grossesse molaire",
+      "D. Hyperémèse uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Le manque de liquide réduit l’espace autour du fœtus et peut entraîner compression du cordon et anomalies de développement pulmonaire."
+  },
+  {
+    "id": "OB-187",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une grossesse post-terme peut être associée à :",
+    "options": [
+      "A. Oligohydramnios",
+      "B. Hydramnios obligatoire",
+      "C. Grossesse extra-utérine",
+      "D. Môle hydatiforme"
+    ],
+    "answer": "A",
+    "explanation": "L’insuffisance placentaire progressive après terme peut réduire la production de liquide amniotique."
+  },
+  {
+    "id": "OB-188",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente Rh négatif non sensibilisée ayant un saignement au troisième trimestre doit recevoir :",
+    "options": [
+      "A. Immunoglobuline anti-D",
+      "B. Méthotrexate",
+      "C. Acyclovir",
+      "D. Insuline"
+    ],
+    "answer": "A",
+    "explanation": "Tout événement susceptible d’entraîner une hémorragie fœto-maternelle peut justifier une prophylaxie anti-D."
+  },
+  {
+    "id": "OB-189",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’hydrops fœtal lié à l’allo-immunisation Rh est dû principalement à :",
+    "options": [
+      "A. Une anémie hémolytique sévère",
+      "B. Une hyperglycémie",
+      "C. Une infection urinaire maternelle",
+      "D. Une macrosomie"
+    ],
+    "answer": "A",
+    "explanation": "L’hémolyse provoque une anémie, une insuffisance cardiaque et un œdème généralisé."
+  },
+  {
+    "id": "OB-190",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une transfusion intra-utérine peut être indiquée en cas de :",
+    "options": [
+      "A. Anémie fœtale sévère",
+      "B. Hyperémèse maternelle isolée",
+      "C. Travail normal",
+      "D. Diabète gestationnel bien contrôlé"
+    ],
+    "answer": "A",
+    "explanation": "La transfusion intra-utérine peut corriger temporairement une anémie fœtale sévère avant l’accouchement."
+  },
+  {
+    "id": "OB-191",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le dépistage du diabète gestationnel est effectué habituellement :",
+    "options": [
+      "A. Entre 24 et 28 semaines",
+      "B. Après 40 semaines uniquement",
+      "C. Avant la conception uniquement",
+      "D. À la naissance du nouveau-né"
+    ],
+    "answer": "A",
+    "explanation": "La résistance à l’insuline augmente durant cette période, rendant le dépistage pertinent."
+  },
+  {
+    "id": "OB-192",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement initial du diabète gestationnel comprend :",
+    "options": [
+      "A. Régime alimentaire, activité physique et surveillance glycémique",
+      "B. Méthotrexate",
+      "C. Tocolyse",
+      "D. Aspirine à forte dose uniquement"
+    ],
+    "answer": "A",
+    "explanation": "La majorité des patientes commencent par une modification du mode de vie, avec insulinothérapie si le contrôle est insuffisant."
+  },
+  {
+    "id": "OB-193",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement médicamenteux de référence lorsque le diabète gestationnel reste mal contrôlé est :",
+    "options": [
+      "A. Insuline",
+      "B. Warfarine",
+      "C. Acyclovir",
+      "D. Pénicilline"
+    ],
+    "answer": "A",
+    "explanation": "L’insuline permet un contrôle efficace de la glycémie sans traverser significativement le placenta."
+  },
+  {
+    "id": "OB-194",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une complication fœtale du diabète maternel est :",
+    "options": [
+      "A. Hypoglycémie néonatale",
+      "B. Hypoglycémie maternelle obligatoire",
+      "C. Microcéphalie systématique",
+      "D. Cataracte dans tous les cas"
+    ],
+    "answer": "A",
+    "explanation": "L’hyperglycémie maternelle entraîne une hyperinsulinémie fœtale, qui peut provoquer une hypoglycémie après la naissance."
+  },
+  {
+    "id": "OB-195",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Un diabète prégestationnel mal contrôlé augmente le risque :",
+    "options": [
+      "A. De malformations congénitales",
+      "B. De diminution de la croissance fœtale dans tous les cas",
+      "C. D’absence de complications",
+      "D. De grossesse extra-utérine uniquement"
+    ],
+    "answer": "A",
+    "explanation": "L’hyperglycémie durant l’organogenèse est associée à des malformations cardiaques, neurologiques et squelettiques."
+  },
+  {
+    "id": "OB-196",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme diabétique enceinte doit bénéficier de :",
+    "options": [
+      "A. Surveillance de la croissance et du bien-être fœtal",
+      "B. Aucune échographie après le premier trimestre",
+      "C. Une antibiothérapie préventive systématique",
+      "D. Une césarienne à 20 semaines"
+    ],
+    "answer": "A",
+    "explanation": "La grossesse diabétique augmente le risque de macrosomie, de RCIU, de mort fœtale et de complications néonatales."
+  },
+  {
+    "id": "OB-197",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente présentant des vomissements persistants, une perte de poids et une cétonurie souffre probablement de :",
+    "options": [
+      "A. Hyperémèse gravidique",
+      "B. Nausées physiologiques simples",
+      "C. Prééclampsie",
+      "D. Placenta prævia"
+    ],
+    "answer": "A",
+    "explanation": "L’hyperémèse associe vomissements sévères, déshydratation, perte pondérale et troubles métaboliques."
+  },
+  {
+    "id": "OB-198",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’hyperémèse gravidique est associée à :",
+    "options": [
+      "A. Grossesse multiple et grossesse molaire",
+      "B. Grossesse extra-utérine uniquement",
+      "C. Oligohydramnios systématique",
+      "D. Infection urinaire uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Les taux élevés de β-hCG dans les grossesses multiples et molaires peuvent aggraver les vomissements."
+  },
+  {
+    "id": "OB-199",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une complication neurologique de l’hyperémèse gravidique prolongée est :",
+    "options": [
+      "A. Encéphalopathie de Wernicke",
+      "B. AVC systématique",
+      "C. Méningite bactérienne",
+      "D. Paralysie de Bell uniquement"
+    ],
+    "answer": "A",
+    "explanation": "Les vomissements prolongés peuvent provoquer une carence en thiamine, responsable de troubles oculomoteurs, d’ataxie et de confusion."
+  },
+  {
+    "id": "OB-200",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Chez une patiente souffrant d’hyperémèse sévère avant une perfusion glucosée, il faut envisager :",
+    "options": [
+      "A. Administration de thiamine",
+      "B. Administration de warfarine",
+      "C. Administration de méthotrexate",
+      "D. Administration d’anti-D uniquement"
+    ],
+    "answer": "A",
+    "explanation": "La thiamine doit être corrigée pour éviter de précipiter une encéphalopathie de Wernicke lors de l’apport glucosé."
+  },
+  {
+    "id": "OB-201",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement initial de l’hyperémèse gravidique comprend :",
+    "options": [
+      "A. Réhydratation et antiémétiques",
+      "B. Césarienne immédiate",
+      "C. Tocolyse",
+      "D. Anticoagulation systématique"
+    ],
+    "answer": "A",
+    "explanation": "La prise en charge repose sur la correction de la déshydratation, des troubles électrolytiques et des vomissements."
+  },
+  {
+    "id": "OB-202",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente présentant des vomissements persistants après le premier trimestre doit être évaluée pour :",
+    "options": [
+      "A. Maladie trophoblastique, maladie thyroïdienne et causes digestives",
+      "B. Grossesse extra-utérine uniquement",
+      "C. Travail prématuré exclusivement",
+      "D. Dystocie de l’épaule"
+    ],
+    "answer": "A",
+    "explanation": "Des vomissements persistants nécessitent de rechercher une cause secondaire et non de les attribuer automatiquement aux nausées gravidiques."
+  },
+  {
+    "id": "OB-203",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’hypertension gestationnelle apparaît généralement :",
+    "options": [
+      "A. Avant 8 semaines",
+      "B. Avant la conception",
+      "C. Après 20 semaines",
+      "D. Seulement après l’accouchement"
+    ],
+    "answer": "C",
+    "explanation": "L’hypertension apparue après 20 semaines sans protéinurie ni signe d’atteinte d’organe est compatible avec une hypertension gestationnelle."
+  },
+  {
+    "id": "OB-204",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’hypertension chronique est définie par une hypertension :",
+    "options": [
+      "A. Présente avant la grossesse ou avant 20 semaines",
+      "B. Apparaissant uniquement pendant le travail",
+      "C. Diagnostiquée uniquement après l’accouchement",
+      "D. Présente uniquement avec une protéinurie"
+    ],
+    "answer": "A",
+    "explanation": "Une hypertension avant 20 semaines est probablement chronique, sauf situation particulière."
+  },
+  {
+    "id": "OB-205",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une hypertension qui persiste plus de 12 semaines après l’accouchement évoque :",
+    "options": [
+      "A. Une hypertension chronique",
+      "B. Une hypertension gestationnelle transitoire",
+      "C. Une éclampsie uniquement",
+      "D. Une infection urinaire"
+    ],
+    "answer": "A",
+    "explanation": "L’hypertension gestationnelle devrait normalement disparaître dans les semaines suivant l’accouchement."
+  },
+  {
+    "id": "OB-206",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une prééclampsie est caractérisée par :",
+    "options": [
+      "A. Hypertension après 20 semaines avec protéinurie ou atteinte d’organe",
+      "B. Hypotension et tachycardie",
+      "C. Fièvre et dysurie",
+      "D. Hyperglycémie isolée"
+    ],
+    "answer": "A",
+    "explanation": "La prééclampsie peut être diagnostiquée avec ou sans protéinurie si des signes d’atteinte rénale, hépatique, neurologique, hématologique ou pulmonaire sont présents."
+  },
+  {
+    "id": "OB-207",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Un signe de gravité de la prééclampsie est :",
+    "options": [
+      "A. Pression artérielle sévèrement élevée",
+      "B. Nausées légères du premier trimestre",
+      "C. Œdème discret des chevilles",
+      "D. Fatigue modérée"
+    ],
+    "answer": "A",
+    "explanation": "Une pression artérielle sévère, des symptômes neurologiques, une thrombopénie ou un œdème pulmonaire sont des signes de gravité."
+  },
+  {
+    "id": "OB-208",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le syndrome HELLP comprend :",
+    "options": [
+      "A. Hémolyse, enzymes hépatiques élevées et thrombopénie",
+      "B. Hyperglycémie, œdème et leucopénie",
+      "C. Hypotension, insuffisance rénale et hypocalcémie",
+      "D. Hématurie, éosinophilie et leucocytose"
+    ],
+    "answer": "A",
+    "explanation": "HELLP signifie Hemolysis, Elevated Liver enzymes and Low Platelet count."
+  },
+  {
+    "id": "OB-209",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une douleur épigastrique ou de l’hypochondre droit chez une femme prééclamptique évoque :",
+    "options": [
+      "A. Atteinte hépatique sévère ou syndrome HELLP",
+      "B. Une grossesse normale",
+      "C. Une cystite isolée",
+      "D. Une hyperémèse simple"
+    ],
+    "answer": "A",
+    "explanation": "La douleur est liée à la distension de la capsule hépatique et constitue un signe d’alarme."
+  },
+  {
+    "id": "OB-210",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement définitif de la prééclampsie est :",
+    "options": [
+      "A. L’accouchement",
+      "B. L’antibiothérapie",
+      "C. Le repos uniquement",
+      "D. L’administration de fer"
+    ],
+    "answer": "A",
+    "explanation": "L’accouchement supprime la source placentaire de la maladie, même si la surveillance doit se poursuivre après l’accouchement."
+  },
+  {
+    "id": "OB-211",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le sulfate de magnésium est utilisé dans la prééclampsie sévère pour :",
+    "options": [
+      "A. Prévenir les convulsions",
+      "B. Abaisser directement la glycémie",
+      "C. Traiter l’infection urinaire",
+      "D. Accélérer la maturation pulmonaire"
+    ],
+    "answer": "A",
+    "explanation": "Le magnésium est l’anticonvulsivant de référence pour la prévention et le traitement de l’éclampsie."
+  },
+  {
+    "id": "OB-212",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "La toxicité du sulfate de magnésium se manifeste notamment par :",
+    "options": [
+      "A. Disparition des réflexes ostéotendineux et dépression respiratoire",
+      "B. Hyperréflexie isolée",
+      "C. Hyperthermie",
+      "D. Diarrhée uniquement"
+    ],
+    "answer": "A",
+    "explanation": "La surveillance clinique porte notamment sur les réflexes, la fréquence respiratoire et la diurèse."
+  },
+  {
+    "id": "OB-213",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’antidote de la toxicité au magnésium est :",
+    "options": [
+      "A. Gluconate de calcium",
+      "B. Vitamine K",
+      "C. Naloxone",
+      "D. Flumazénil"
+    ],
+    "answer": "A",
+    "explanation": "Le gluconate de calcium IV antagonise rapidement les effets neuromusculaires du magnésium."
+  },
+  {
+    "id": "OB-214",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "L’éclampsie correspond à :",
+    "options": [
+      "A. Des convulsions chez une femme présentant une prééclampsie",
+      "B. Une infection du placenta",
+      "C. Une hémorragie post-partum",
+      "D. Une grossesse molaire"
+    ],
+    "answer": "A",
+    "explanation": "L’éclampsie peut survenir avant, pendant ou après l’accouchement."
+  },
+  {
+    "id": "OB-215",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Lors d’une crise d’éclampsie, la première priorité est :",
+    "options": [
+      "A. Sécuriser les voies respiratoires et protéger la patiente",
+      "B. Réaliser immédiatement un toucher vaginal",
+      "C. Administrer du fer oral",
+      "D. Faire marcher la patiente"
+    ],
+    "answer": "A",
+    "explanation": "La prise en charge initiale suit les principes ABC, avec protection contre les traumatismes et administration de magnésium."
+  },
+  {
+    "id": "OB-216",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Après stabilisation d’une éclampsie, la prise en charge définitive est :",
+    "options": [
+      "A. Accouchement",
+      "B. Retour à domicile",
+      "C. Tocolyse prolongée jusqu’à 42 semaines",
+      "D. Traitement par méthotrexate"
+    ],
+    "answer": "A",
+    "explanation": "L’accouchement est nécessaire après stabilisation maternelle, mais il ne doit pas être réalisé pendant une convulsion non contrôlée."
+  },
+  {
+    "id": "OB-217",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente avec prééclampsie sévère à 36 semaines présente une douleur de l’hypochondre droit et une pression artérielle sévère. La conduite est :",
+    "options": [
+      "A. Contrôler la pression, administrer du magnésium puis faire accoucher",
+      "B. Attendre systématiquement 40 semaines",
+      "C. Administrer uniquement du fer",
+      "D. Prescrire une tocolyse prolongée"
+    ],
+    "answer": "A",
+    "explanation": "À ce terme avec signes de gravité, l’accouchement est indiqué après stabilisation maternelle."
+  },
+  {
+    "id": "OB-218",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le traitement d’une hypertension sévère pendant la grossesse peut comprendre :",
+    "options": [
+      "A. Labétalol, hydralazine ou nifédipine",
+      "B. IEC",
+      "C. Warfarine uniquement",
+      "D. Méthotrexate"
+    ],
+    "answer": "A",
+    "explanation": "Ces médicaments ont une action rapide et sont utilisés dans les situations hypertensives sévères selon les protocoles."
+  },
+  {
+    "id": "OB-219",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Les inhibiteurs de l’enzyme de conversion sont évités pendant la grossesse en raison du risque de :",
+    "options": [
+      "A. Dysplasie rénale et oligohydramnios fœtal",
+      "B. Macrosomie isolée",
+      "C. Hyperémèse",
+      "D. Infection néonatale à HSV"
+    ],
+    "answer": "A",
+    "explanation": "Les IEC peuvent entraîner une atteinte rénale fœtale et une insuffisance rénale néonatale."
+  },
+  {
+    "id": "OB-220",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente présentant une prééclampsie doit être surveillée pour :",
+    "options": [
+      "A. Thrombopénie, atteinte rénale, atteinte hépatique et œdème pulmonaire",
+      "B. Uniquement une hyperglycémie",
+      "C. Uniquement une infection urinaire",
+      "D. Une maladie de Hirschsprung"
+    ],
+    "answer": "A",
+    "explanation": "La prééclampsie est une maladie multisystémique."
+  },
+  {
+    "id": "OB-221",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme à 34 semaines avec prééclampsie sans signe sévère peut parfois bénéficier :",
+    "options": [
+      "A. D’une prise en charge expectative avec surveillance rapprochée",
+      "B. D’une césarienne obligatoire immédiate dans tous les cas",
+      "C. D’un retour sans suivi",
+      "D. D’un traitement par méthotrexate"
+    ],
+    "answer": "A",
+    "explanation": "Avant le terme, une surveillance expectative peut être discutée dans des situations sélectionnées sans aggravation maternelle ou fœtale."
+  },
+  {
+    "id": "OB-222",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme à 34 semaines avec prééclampsie sévère doit généralement :",
+    "options": [
+      "A. Être stabilisée puis accouchée",
+      "B. Être surveillée jusqu’à 42 semaines",
+      "C. Recevoir uniquement un régime pauvre en sel",
+      "D. Recevoir un vaccin vivant"
+    ],
+    "answer": "A",
+    "explanation": "Les signes sévères exposent à des complications maternelles et fœtales importantes."
+  },
+  {
+    "id": "OB-223",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une complication maternelle de la prééclampsie est :",
+    "options": [
+      "A. Décollement placentaire",
+      "B. Otite moyenne",
+      "C. Sténose pylorique",
+      "D. Mucoviscidose"
+    ],
+    "answer": "A",
+    "explanation": "La prééclampsie augmente le risque de décollement placentaire, d’AVC, de CIVD et d’insuffisance rénale."
+  },
+  {
+    "id": "OB-224",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Le suivi post-partum d’une patiente ayant présenté une prééclampsie doit comprendre :",
+    "options": [
+      "A. Surveillance de la pression artérielle et des symptômes neurologiques",
+      "B. Aucun suivi",
+      "C. Uniquement une radiographie thoracique",
+      "D. Uniquement une échographie fœtale"
+    ],
+    "answer": "A",
+    "explanation": "La prééclampsie peut s’aggraver ou débuter après l’accouchement."
+  },
+  {
+    "id": "OB-225",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une convulsion post-partum chez une femme ayant eu une hypertension gravidique doit faire suspecter en priorité :",
+    "options": [
+      "A. Éclampsie post-partum",
+      "B. Migraine simple",
+      "C. Hypoglycémie isolée",
+      "D. Infection urinaire basse"
+    ],
+    "answer": "A",
+    "explanation": "L’éclampsie peut survenir après l’accouchement, notamment durant les premières 48 heures."
+  },
+  {
+    "id": "OB-226",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente présentant des céphalées persistantes et des troubles visuels pendant la grossesse doit être évaluée pour :",
+    "options": [
+      "A. Prééclampsie sévère",
+      "B. Grossesse normale",
+      "C. Candidose vaginale",
+      "D. Constipation"
+    ],
+    "answer": "A",
+    "explanation": "Les symptômes neurologiques et visuels sont des signes de gravité et nécessitent une évaluation immédiate."
+  },
+  {
+    "id": "OB-227",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente avec prééclampsie présente une diurèse très faible. Cela évoque :",
+    "options": [
+      "A. Une atteinte rénale sévère",
+      "B. Une grossesse normale",
+      "C. Une amélioration certaine",
+      "D. Une hyperémèse simple"
+    ],
+    "answer": "A",
+    "explanation": "L’oligurie est un signe de gravité et peut limiter l’élimination du magnésium."
+  },
+  {
+    "id": "OB-228",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "En cas d’éclampsie, la surveillance comprend :",
+    "options": [
+      "A. Pression artérielle, respiration, réflexes, diurèse et état fœtal",
+      "B. Uniquement la température",
+      "C. Uniquement le poids maternel",
+      "D. Uniquement la glycémie"
+    ],
+    "answer": "A",
+    "explanation": "La maladie touche plusieurs systèmes et le traitement par magnésium nécessite une surveillance clinique étroite."
+  },
+  {
+    "id": "OB-229",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une patiente présentant une hypertension avant 20 semaines doit être évaluée pour :",
+    "options": [
+      "A. Hypertension chronique ou maladie trophoblastique selon le contexte",
+      "B. Hypertension gestationnelle classique uniquement",
+      "C. Travail prématuré",
+      "D. Dystocie de l’épaule"
+    ],
+    "answer": "A",
+    "explanation": "Une prééclampsie avant 20 semaines est rare et doit faire rechercher notamment une grossesse molaire ou une maladie maternelle préexistante."
+  },
+  {
+    "id": "OB-230",
+    "exam": "Obstétrique",
+    "subject": "Divers",
+    "question": "Une femme G1P0 de 36 ans, enceinte de 36 semaines, présente une pression artérielle de 170/105 mmHg, des céphalées persistantes et une douleur de l’hypochondre droit. Quelle est la prise en charge la plus appropriée ?",
+    "options": [
+      "A. Surveillance à domicile",
+      "B. Labétalol ou hydralazine, sulfate de magnésium, puis accouchement après stabilisation",
+      "C. Tocolyse jusqu’à 40 semaines",
+      "D. Méthotrexate"
+    ],
+    "answer": "B",
+    "explanation": "Il s’agit d’une prééclampsie sévère avec symptômes neurologiques et hépatiques. Il faut contrôler rapidement la pression artérielle, prévenir les convulsions par sulfate de magnésium et procéder à l’accouchement après stabilisation maternelle."
   }
 ]
