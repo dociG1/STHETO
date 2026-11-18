@@ -1,0 +1,915 @@
+[
+  {
+    "id": "hom2026-001",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Ophtalmologie 1",
+    "question": "Le traitement de la cataracte est",
+    "options": [
+      "A. Médical",
+      "B. Chirurgical",
+      "C. Par injection sous-conjonctivale",
+      "D. Par le repas au lit",
+      "E. Aucun des précédents"
+    ],
+    "answer": "B",
+    "explanation": "La cataracte est une opacification du cristallin dont le seul traitement est chirurgical."
+  },
+  {
+    "id": "hom2026-002",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 1",
+    "question": "À la ménopause la FSH est :",
+    "options": [
+      "A. Normale",
+      "B. Élevée",
+      "C. Effondrée",
+      "D. Très élevée",
+      "E. Très effondrée"
+    ],
+    "answer": "B",
+    "explanation": "La perte de la rétroaction ovarienne élève la FSH. Réponse à vérifier avec le corrigé, car la proposition D (très élevée) est aussi défendable."
+  },
+  {
+    "id": "hom2026-003",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Gastro-entérologie 1",
+    "question": "Retenez la bonne assertion en rapport avec les investigations para cliniques appropriées :",
+    "options": [
+      "A. Le bleu de méthylène pourrait confirmer la présence de globules blancs au niveau des selles",
+      "B. L’analyse d’un spécimen de selles mettant en évidence un taux de glucose abaissé et un pH < à 5,5 éliminerait une cause infectieuse",
+      "C. La notion de perte de chlore dans les selles pourrait être exploitée dans le diagnostic du choléra",
+      "D. Aucune des réponses",
+      "E. Toutes les réponses sont bonnes"
+    ],
+    "answer": "A",
+    "explanation": "La coloration au bleu de méthylène met en évidence les leucocytes fécaux. Un pH fécal bas évoque une malabsorption des sucres sans exclure une cause infectieuse."
+  },
+  {
+    "id": "hom2026-004",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "ORL 1",
+    "question": "Le conduit auditif externe doit",
+    "options": [
+      "A. Bénéficier d’hygiène chaque semaine",
+      "B. N’a pas de sécrétion pour faciliter sa fonction",
+      "C. Ne joue aucun rôle dans le processus d’audition",
+      "D. Joue un rôle important dans la digestion des aliments",
+      "E. Aucun des précédents"
+    ],
+    "answer": "A",
+    "explanation": "Les autres propositions sont fausses : le conduit sécrète du cérumen protecteur et participe à l’audition. Réponse à vérifier avec le corrigé."
+  },
+  {
+    "id": "hom2026-005",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Endocrinologie 1",
+    "question": "Une femme de 35 ans est vue pour palpitations. Sa fréquence cardiaque est à 124/minutes. Elle signale des sueurs profuses parfois, une nervosité inhabituelle depuis quelques mois. Elle passe 3 à 4 selles par jour. Sa TA est à 140/90. Vous pensez surtout :",
+    "options": [
+      "A. Faire les tests thyroïdiens et un électrocardiogramme",
+      "B. La rassurer car elle est très stressée",
+      "C. Lui prescrire un calmant",
+      "D. Lui prescrire un antihypertenseur",
+      "E. La référer à un psychologue"
+    ],
+    "answer": "A",
+    "explanation": "Tachycardie, sueurs, nervosité et selles fréquentes : hyperthyroïdie à confirmer par le bilan thyroïdien et l’ECG."
+  },
+  {
+    "id": "hom2026-006",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "ORL 2",
+    "question": "La fonction olfactive",
+    "options": [
+      "A. Relève du conduit auditif externe",
+      "B. Dépend de l’acuité visuelle",
+      "C. Accompagne la chéloïde de l’oreille",
+      "D. Fonction de la muqueuse nasale",
+      "E. Aucun des précédents"
+    ],
+    "answer": "D",
+    "explanation": "L’olfaction dépend de la muqueuse olfactive des fosses nasales."
+  },
+  {
+    "id": "hom2026-007",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 2",
+    "question": "Laquelle des phases suivantes ne fait pas partie de la physiologie du rapport sexuel normal (ou eupareunie) :",
+    "options": [
+      "A. La période d’excitation avec lubrification et exacerbation du désir,",
+      "B. La période de lubrification avec excitation et exacerbation du désir,",
+      "C. Le plaisir sexuel avec montée progressive ou rapide vers une phase de plateau,",
+      "D. L’orgasme unique ou multiple chez la femme,",
+      "E. La phase de résolution avec sensation de bonheur et de plénitude."
+    ],
+    "answer": "B",
+    "explanation": "La lubrification est un signe de la phase d’excitation, non une phase distincte. Les propositions A et B sont presque identiques sur la copie ; réponse à vérifier avec le corrigé."
+  },
+  {
+    "id": "hom2026-008",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Gastro-entérologie 2",
+    "question": "Une femme de 80 ans est vue pour des douleurs de la fosse iliaque gauche, histoire de difficulté pour déféquer avec présence sang dans les selles. Hyperthermie à 38,5 degrés C. L’abdomen est souple à la palpation. On note une sensibilité à la fosse iliaque gauche s’étendant à l’hypogastre. Vous pensez à :",
+    "options": [
+      "A. Un cancer du colon",
+      "B. Une appendicite aiguë",
+      "C. Une diverticulite",
+      "D. Un syndrome d’intestin irritable",
+      "E. Une dysenterie bacillaire"
+    ],
+    "answer": "C",
+    "explanation": "Douleur de la fosse iliaque gauche fébrile chez une personne âgée : diverticulite sigmoïdienne."
+  },
+  {
+    "id": "hom2026-009",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 3",
+    "question": "Les contractions rythmées des parois vaginales observées pendant l’orgasme sont commandées par :",
+    "options": [
+      "A. Le système nerveux central",
+      "B. Le système nerveux autonome",
+      "C. Le système nerveux périphérique",
+      "D. Le système nerveux somatique"
+    ],
+    "answer": "B",
+    "explanation": "L’orgasme est un réflexe sous contrôle du système nerveux autonome. Réponse à vérifier avec le corrigé, car le système somatique (nerf pudendal) intervient aussi."
+  },
+  {
+    "id": "hom2026-010",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Pédiatrie 1",
+    "question": "La cause la plus fréquente de diarrhée aiguë chez le nourrisson de 3 mois à 15 mois est :",
+    "options": [
+      "A. Adénovirus",
+      "B. Shigella Dysenteriae",
+      "C. Rotavirus",
+      "D. Gardia Lamblia",
+      "E. Aucune des réponses"
+    ],
+    "answer": "C",
+    "explanation": "Le rotavirus est la première cause de diarrhée aiguë du nourrisson."
+  },
+  {
+    "id": "hom2026-011",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "ORL 3",
+    "question": "La chirurgie des amygdales dépend du nombre de crises aiguës annuelles",
+    "options": [
+      "A. 6 crises par année",
+      "B. 10 crises par année",
+      "C. 1 crise par année",
+      "D. 3 crises par année",
+      "E. Aucun des précédents"
+    ],
+    "answer": "A",
+    "explanation": "Seuil retenu : au moins 6 angines par an (les critères de Paradise donnent 7 par an, ou 5 par an pendant 2 ans, ou 3 par an pendant 3 ans). Réponse à vérifier avec le corrigé."
+  },
+  {
+    "id": "hom2026-012",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "ORL 4",
+    "question": "L’amygdale cryptique peut causer",
+    "options": [
+      "A. Une mauvaise haleine",
+      "B. Une carie dentaire",
+      "C. Une chéloïde du pavillon de l’oreille",
+      "D. Un cancer de l’estomac",
+      "E. Aucune des précédentes"
+    ],
+    "answer": "A",
+    "explanation": "Les cryptes amygdaliennes retiennent des débris (caséum) responsables d’une halitose."
+  },
+  {
+    "id": "hom2026-013",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Pédiatrie 2",
+    "question": "Vous observez la présence d’Anaëlle (photographie d’une fillette à l’abdomen distendu sur les genoux de sa mère, non transcrite) dans la salle de consultation externe du Centre hospitalier où vous travaillez en fin de semaine. Anaëlle vous paraît bien éveillée et apparemment en santé. Une fois avec vous en salle de consultation, vous :",
+    "options": [
+      "A. Demandez à sa mère de la déshabiller",
+      "B. Demandez à sa mère de vous faire part des motifs de la consultation",
+      "C. Commencez par féliciter la mère pour l’éveil de son enfant",
+      "D. Toutes les initiatives susmentionnées sont judicieuses",
+      "E. Aucune des initiatives susmentionnées ne correspond aux premières étapes de la consultation d’Anaëlle"
+    ],
+    "answer": "D",
+    "explanation": "Établir le contact, recueillir le motif et examiner l’enfant déshabillé font tous partie d’une consultation pédiatrique. Réponse à vérifier avec le corrigé."
+  },
+  {
+    "id": "hom2026-014",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Pédiatrie 3",
+    "question": "D’après la mère d’Anaëlle, elle se plaint très souvent de douleurs abdominales et présenterait depuis quelques jours une anorexie. Compte tenu de son « bon état apparent », son évaluation clinique se fera :",
+    "options": [
+      "A. En se limitant à une auscultation cardio-pulmonaire et une palpation abdominale",
+      "B. En se limitant à une palpation abdominale et un toucher rectal",
+      "C. En s’assurant de l’avoir bien observée, auscultée et palpée (abdomen, pouls…)",
+      "D. Toutes les approches sont acceptables",
+      "E. Aucune des approches n’est conforme"
+    ],
+    "answer": "C",
+    "explanation": "Un bon état apparent ne dispense pas d’un examen clinique complet et systématique."
+  },
+  {
+    "id": "hom2026-015",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 4",
+    "question": "L’une des réponses suivantes n’est pas un facteur de risque de la menace d’accouchement prématuré, laquelle :",
+    "options": [
+      "A. Conisation",
+      "B. Malformation utérine",
+      "C. Béance cervicale",
+      "D. Les grandes maladies chroniques (HTA, diabète, pathologies thyroïdiennes, anémie sévère)",
+      "E. L’obstruction tubaire bilatérale"
+    ],
+    "answer": "E",
+    "explanation": "L’obstruction tubaire bilatérale relève de l’infertilité et n’expose pas à l’accouchement prématuré. Sur la copie, les options sont étiquetées a, b, c, b, a."
+  },
+  {
+    "id": "hom2026-016",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Gastro-entérologie 3",
+    "question": "Un patient de 45 ans est référé de la province pour perte de poids, augmentation de volume de l’abdomen, pas d’œdème des membres inférieurs. Histoire de fièvre vespérale depuis 3 mois. À l’examen, il a une ascite avec signe du flot positif. Vous pensez à investiguer sérieusement :",
+    "options": [
+      "A. Un syndrome de malabsorption",
+      "B. Une cirrhose",
+      "C. Un cancer du foie",
+      "D. Une défaillance cardiaque",
+      "E. Une tuberculose péritonéale"
+    ],
+    "answer": "E",
+    "explanation": "Ascite fébrile à prédominance vespérale avec amaigrissement en zone d’endémie : tuberculose péritonéale."
+  },
+  {
+    "id": "hom2026-017",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 5",
+    "question": "Lequel des symptômes suivant n’est pas considéré comme un signe sympathique de grossesse :",
+    "options": [
+      "A. nausées matinales",
+      "B. tension mammaire",
+      "C. hypersialorrhée",
+      "D. vomissement",
+      "E. diarrhée incoercible."
+    ],
+    "answer": "E",
+    "explanation": "Nausées, tension mammaire, hypersialorrhée et vomissements sont des signes sympathiques ; une diarrhée incoercible n’en est pas un."
+  },
+  {
+    "id": "hom2026-018",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Cardiologie 1",
+    "question": "L’évaluation de l’hypertension artérielle",
+    "options": [
+      "A. Par un examen de la cornée",
+      "B. Par un examen de la paupière",
+      "C. Par un examen de l’iris",
+      "D. Par un examen de la rétine",
+      "E. Aucun des précédents"
+    ],
+    "answer": "D",
+    "explanation": "Le fond d’œil évalue le retentissement de l’HTA sur les vaisseaux rétiniens."
+  },
+  {
+    "id": "hom2026-019",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 6",
+    "question": "Patiente de 30, G4P3 avec une grossesse de 37 semaines, est vue pour : douleurs abdominales diffuses, passage de sang noirâtre par le vagin. Elle est stable cliniquement et les BDCF sont toujours présents malgré un fond de contractures utérines. Le diagnostic le plus probable est :",
+    "options": [
+      "A. Abruptio placenta",
+      "B. Placenta prævia",
+      "C. Vasa prævia",
+      "D. Lésions du col utérin",
+      "E. Toutes les réponses"
+    ],
+    "answer": "A",
+    "explanation": "Douleur, sang noirâtre et hypertonie utérine au 3e trimestre : hématome rétroplacentaire. Le placenta praevia saigne sans douleur, avec du sang rouge."
+  },
+  {
+    "id": "hom2026-020",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Pédiatrie 4",
+    "question": "Un enfant de 3 ans sexe féminin arrive au service de Pédiatrie pour histoire de céphalée associée à des vomissements projectiles. Les parents signalent une fièvre évoluant depuis 5 jours non amendée par l’acétaminophène. De plus à l’interrogatoire les parents signalent une photophobie et des crises convulsives tonico-cloniques récurrentes. Statut vaccinal incomplet. À l’examen physique vous retrouvez un score de Glasgow : 12/15 - un signe de Kernig positif. Quel est votre diagnostic ?",
+    "options": [
+      "A. Fièvre Typhoïde",
+      "B. Méningite",
+      "C. Pneumonie compliquée de méningisme",
+      "D. Intoxication",
+      "E. Aucune des réponses"
+    ],
+    "answer": "B",
+    "explanation": "Fièvre, céphalées, vomissements en jet, photophobie, convulsions, trouble de conscience et signe de Kernig : méningite."
+  },
+  {
+    "id": "hom2026-021",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 7",
+    "question": "Durant la septième semaine de la gestation l’embryon possède :",
+    "options": [
+      "A. Des conduits génitaux mâles",
+      "B. Des conduits génitaux femelles",
+      "C. Des conduits génitaux à la fois mâles et femelles",
+      "D. Toutes les réponses sont vraies",
+      "E. Toutes les réponses sont fausses"
+    ],
+    "answer": "C",
+    "explanation": "Jusqu’à la 7e semaine, le stade est indifférencié : l’embryon porte les canaux de Wolff et de Müller."
+  },
+  {
+    "id": "hom2026-022",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 8",
+    "question": "Régine est une patiente de 24 ans qui vient en consultation très inquiète. Elle se complaint d’avoir ses règles 2 fois dans le mois et cela l’inquiète au point de penser ne pas pouvoir ultérieurement enfanter. En effet, elle a eu ses règles le 4 septembre dernier et vient de l’avoir encore le 29 sept. Elle n’a pas d’autre complainte et est cliniquement ok. Comme conduite à tenir :",
+    "options": [
+      "A. Je lui prescris un paquet d’examens à faire et lui donne rendez-vous à la huitaine",
+      "B. Je la place immédiatement sous œstro-progestatif pour régulariser le cycle",
+      "C. Je lui fais un counseling poussé pour l’encourager à tomber enceinte au plus vite",
+      "D. Je la rassure et l’explique qu’elle a un cycle normal",
+      "E. Toutes les réponses"
+    ],
+    "answer": "D",
+    "explanation": "Règles les 4 et 29 septembre : cycle de 25 jours, dans la normale (21 à 35 jours)."
+  },
+  {
+    "id": "hom2026-023",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 9",
+    "question": "L’absence de désir sexuel pendant un rapport sexuel normal est :",
+    "options": [
+      "A. Une frigidité",
+      "B. Impuissance sexuelle",
+      "C. Anaphrodisie",
+      "D. Anorgasmie",
+      "E. Anosmie"
+    ],
+    "answer": "C",
+    "explanation": "L’anaphrodisie désigne l’absence de désir sexuel. Réponse à vérifier avec le corrigé, car le terme frigidité est parfois utilisé dans ce sens."
+  },
+  {
+    "id": "hom2026-024",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "ORL 5",
+    "question": "Des pathologies de l’oreille peuvent provoquer",
+    "options": [
+      "A. Des troubles de l’équilibre",
+      "B. Accompagne toujours le cancer gastrique",
+      "C. Précèdent le cancer de l’œil (rétinoblastome)",
+      "D. Sont rares en Haïti",
+      "E. Aucun des précédents"
+    ],
+    "answer": "A",
+    "explanation": "L’oreille interne contient le vestibule : ses atteintes provoquent des vertiges et des troubles de l’équilibre."
+  },
+  {
+    "id": "hom2026-025",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 10",
+    "question": "Fabienne est vue en consultation prénatale pour fièvre, saignement vaginal, et douleurs hypogastriques sur fond d’aménorrhée de 19 semaines. À l’examen physique on peut constater des contractions utérines et un col très mou. Elle est susceptible de faire :",
+    "options": [
+      "A. Une grossesse ectopique",
+      "B. Un accouchement prématuré",
+      "C. Un accouchement sans risque",
+      "D. Un avortement",
+      "E. Toutes les réponses."
+    ],
+    "answer": "D",
+    "explanation": "Contractions, saignement, fièvre et col modifié avant 22 SA : avortement tardif, probablement infecté. Sur la copie, les options sont étiquetées b à f."
+  },
+  {
+    "id": "hom2026-026",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Gastro-entérologie 4",
+    "question": "Une femme de 34 ans employée de banque à Martissant est vue pour une diarrhée depuis 2 mois avec 4 à 5 selles par jour surtout le matin, beaucoup de gaz et des ballonnements abdominaux. Elle a déjà eu ce problème il y a quelques années et beaucoup d’investigations ont été faites sans résultat. Son état général est conservé, elle est surtout très anxieuse. Vous pensez à :",
+    "options": [
+      "A. Une amibiase intestinale",
+      "B. Une maladie de Crohn",
+      "C. Une sprue cœliaque",
+      "D. Un syndrome d’intestin irritable",
+      "E. Un cancer du colon"
+    ],
+    "answer": "D",
+    "explanation": "Troubles chroniques récidivants avec anxiété, bilans négatifs et état général conservé : syndrome de l’intestin irritable."
+  },
+  {
+    "id": "hom2026-027",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Soins infirmiers 1",
+    "question": "Pour faire baisser la fièvre, il faut lui mettre des compresses froides. Que sont les compresses froides ?",
+    "options": [
+      "A. De la glace mise dans un sachet que l’on pose aux carrefours vasculaires ?",
+      "B. Des compresses sortant du réfrigérateur, posées aux carrefours vasculaires ?",
+      "C. Des compresses humides posées au carrefour vasculaire ?",
+      "D. Des compresses glacées posées sur le maximum de peau ?",
+      "E. Des compresses humides posées sur le maximum de peau ?"
+    ],
+    "answer": "E",
+    "explanation": "Les compresses humides (tièdes ou fraîches) sur une grande surface cutanée favorisent la perte de chaleur sans provoquer de vasoconstriction. Réponse à vérifier avec le corrigé."
+  },
+  {
+    "id": "hom2026-028",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "ORL 6",
+    "question": "Le cri du tragus ----- pression sur le tragus diagnostic",
+    "options": [
+      "A. Otite Moyenne",
+      "B. Mastoïdite",
+      "C. Otite Externe",
+      "D. Rhinite allergique",
+      "E. Aucun des précédents"
+    ],
+    "answer": "C",
+    "explanation": "La douleur provoquée par la pression du tragus est le signe de l’otite externe."
+  },
+  {
+    "id": "hom2026-029",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Pneumologie 1",
+    "question": "Avec le diagnostic de pneumonie évoqué à partir de l’anamnèse et à la suite de l’auscultation, les dispositions suivantes doivent figurer dans les instructions :",
+    "options": [
+      "A. Contrôle de la FR q 12 h",
+      "B. Contrôle de la diurèse horaire",
+      "C. Oxygénothérapie : 6 L/minute",
+      "D. Surveillez des convulsions",
+      "E. Surveillez le caractère des selles"
+    ],
+    "answer": "C",
+    "explanation": "L’oxygénothérapie est la disposition spécifique à la pneumonie. Le contrôle de la fréquence respiratoire toutes les 12 heures serait insuffisant. Réponse à vérifier avec le corrigé."
+  },
+  {
+    "id": "hom2026-030",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Cardiologie 2",
+    "question": "Un homme âgé de 42 ans, fonctionnaire de l’état, consulte pour céphalées occipitales remontant à 3 jours. Il n’a aucun antécédent médical. Lors de sa dernière visite, il y a 6 mois, sa tension artérielle était à 120/75. Ce jour, il paraît anxieux et sa TA est contrôlée à 160/90. Il n’y a pas d’autres trouvailles à l’examen physique. Choisissez la conduite à tenir qui convient :",
+    "options": [
+      "A. Vous lui prescrivez un antihypertenseur",
+      "B. Vous demandez un bilan paraclinique de routine et vous lui recommandez une diète hyposodée, des exercices et rendez-vous dans les 48 heures",
+      "C. Vous banalisez, c’est le stress du pays et vous lui recommandez un sédatif",
+      "D. Vous lui prescrivez des analgésiques",
+      "E. Vous lui prescrivez un analgésique et un antihypertenseur"
+    ],
+    "answer": "B",
+    "explanation": "Une mesure isolée élevée chez un patient anxieux doit être confirmée sur plusieurs mesures avant tout traitement ; mesures hygiéno-diététiques et bilan de base en attendant."
+  },
+  {
+    "id": "hom2026-031",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Pédiatrie 5",
+    "question": "L’épiglottite aiguë est une infection respiratoire grave chez l’enfant. La complication principale est l’arrêt cardio-respiratoire. L’arrêt peut être déclenché par :",
+    "options": [
+      "A. Utilisation d’abaisse-langue pour examiner la gorge",
+      "B. Un décubitus forcé",
+      "C. La mise en place d’une voie veineuse",
+      "D. Les prélèvements sanguins pour investigation paraclinique",
+      "E. Toutes les réponses sont bonnes."
+    ],
+    "answer": "E",
+    "explanation": "Tout ce qui agite l’enfant ou modifie sa position (abaisse-langue, décubitus, geste douloureux) peut déclencher un spasme laryngé et un arrêt respiratoire."
+  },
+  {
+    "id": "hom2026-032",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Cardiologie 3",
+    "question": "Laquelle des propositions suivantes n’est pas vraie en cas d’anomalie des chiffres de la pression artérielle diastolique :",
+    "options": [
+      "A. Modérée pour des pressions diastoliques oscillant entre 90 et 105 mmHg ;",
+      "B. Marquée lorsqu’elle est supérieure ou égale à 110 mmHg ;",
+      "C. Sévère lorsqu’elle est supérieure ou égale à 120 mmHg ;",
+      "D. Marquée lorsqu’elle est supérieure ou égale à 130 mmHg ;"
+    ],
+    "answer": "D",
+    "explanation": "Les propositions B et D utilisent le même qualificatif avec des seuils différents : la valeur de 130 mmHg correspond à un stade plus élevé. Réponse à vérifier avec le corrigé."
+  },
+  {
+    "id": "hom2026-033",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Ophtalmologie 2",
+    "question": "Le chalazion est une pathologie",
+    "options": [
+      "A. De la rétine",
+      "B. De la cornée",
+      "C. De la vitré",
+      "D. De la paupière",
+      "E. Aucun des 3"
+    ],
+    "answer": "D",
+    "explanation": "Le chalazion est une inflammation d’une glande de Meibomius de la paupière."
+  },
+  {
+    "id": "hom2026-034",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Infectiologie 1",
+    "question": "Vous voyez à votre cabinet un patient âgé de 36 ans, pour douleurs thoraciques, dyspnée, toux avec expectorations jaunâtres depuis 2 semaines. Sa température est à 38 degrés 5 C. Des râles crépitants sont perçus aux 2 bases pulmonaires. Quelle est votre conduite à tenir :",
+    "options": [
+      "A. Prescrire un sirop contre la toux et du paracétamol",
+      "B. Vous lui remettez une note de référence pour un centre de prise en charge Covid 19",
+      "C. Commencer d’emblée un traitement avec deux antibiotiques",
+      "D. Demander le test PCR pour Covid 19 et attendre le résultat",
+      "E. Le faire hospitaliser sous oxygène et faire les tests de base, examiner les crachats coloration Gram et Ziehl Nielsen, une radiographie des poumons stat, faire le PCR puis débuter une antibiothérapie à large spectre"
+    ],
+    "answer": "E",
+    "explanation": "Pneumonie fébrile de 2 semaines : prise en charge complète avec bilan de base, recherche bactérienne et tuberculeuse dans les crachats, radiographie, PCR Covid-19 et antibiothérapie. Réponse à vérifier avec le corrigé."
+  },
+  {
+    "id": "hom2026-035",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Soins infirmiers 2",
+    "question": "Panser une plaie c’est :",
+    "options": [
+      "A. La recouvrir de gaze stérile",
+      "B. La traiter",
+      "C. La nettoyer",
+      "D. La laver",
+      "E. La désinfecter"
+    ],
+    "answer": "A",
+    "explanation": "Panser consiste à recouvrir la plaie par un pansement stérile, après nettoyage et désinfection."
+  },
+  {
+    "id": "hom2026-036",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 11",
+    "question": "Les objectifs visés lors de la première consultation en obstétrique sont, sauf :",
+    "options": [
+      "A. Confirmer la grossesse ;",
+      "B. Dater son début et le terme théorique ;",
+      "C. Évaluer les facteurs de risque ;",
+      "D. Prescrire les examens complémentaires obligatoires, recommandés ou utiles ;",
+      "E. Déterminer le sexe de l’enfant à naître"
+    ],
+    "answer": "E",
+    "explanation": "Déterminer le sexe du fœtus n’est pas un objectif de la première consultation prénatale."
+  },
+  {
+    "id": "hom2026-037",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 12",
+    "question": "L’infertilité de couple se définit comme :",
+    "options": [
+      "A. L’incapacité à concevoir un enfant après un an de rapports sexuels réguliers et non protégés",
+      "B. L’impossibilité pour le couple de concevoir un enfant",
+      "C. L’incapacité pour la femme de tomber enceinte",
+      "D. a et b",
+      "E. Aucune de ces réponses"
+    ],
+    "answer": "A",
+    "explanation": "L’infertilité se définit par l’absence de grossesse après 12 mois de rapports réguliers sans contraception. L’impossibilité définitive correspond à la stérilité."
+  },
+  {
+    "id": "hom2026-038",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 13",
+    "question": "Les signes cliniques en faveur d’un avortement spontané sont, sauf :",
+    "options": [
+      "A. Une disparition récente des signes sympathiques de grossesse,",
+      "B. Des hémorragies franches de sang rouge, avec caillots et « débris »,",
+      "C. Un col utérin mou, perméable au doigt,",
+      "D. Les culs-de-sac sont comblés et la mobilisation utérine douloureuse,",
+      "E. Des douleurs pelviennes médianes, intermédiaires, intermittentes, à type de contractions, « comme des règles » ;"
+    ],
+    "answer": "D",
+    "explanation": "Culs-de-sac comblés et mobilisation utérine douloureuse évoquent une grossesse extra-utérine."
+  },
+  {
+    "id": "hom2026-039",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Ophtalmologie 3",
+    "question": "La conjonctivite néonatale est",
+    "options": [
+      "A. Héréditaire",
+      "B. Est liée au diabète",
+      "C. Est une atteinte de la rétine",
+      "D. Est un problème de santé publique",
+      "E. Aucune de ces réponses"
+    ],
+    "answer": "D",
+    "explanation": "L’ophtalmie néonatale est un problème de santé publique, cause évitable de cécité."
+  },
+  {
+    "id": "hom2026-040",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 14",
+    "question": "Gisèle, jeune femme de 30, consulte pour une sensation de gêne à la vulve et à la marche, de légère douleur au cours des rapports sexuels depuis quelques jours. À l’examen clinique, on peut palper une petite masse rénitente au niveau de la grande lèvre droite. Votre conclusion première est :",
+    "options": [
+      "A. Une caroncule vulvaire",
+      "B. Un kyste de Bartholin",
+      "C. Un abcès de Bartholin",
+      "D. Une réaction inflammatoire de la glande vulvaire",
+      "E. Aucune des réponses"
+    ],
+    "answer": "B",
+    "explanation": "Petite masse rénitente de la grande lèvre, peu douloureuse : kyste de la glande de Bartholin. L’abcès serait chaud, rouge et très douloureux."
+  },
+  {
+    "id": "hom2026-041",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 15",
+    "question": "Rose est une primigeste de 32 ans qui est reçue en consultation prénatale pour douleurs hypogastriques et sacrolombaires intermittentes, intenses et plus ou moins régulières sur une grossesse de 33 semaines. Son examen clinique montre un début de modification du col. La conduite à tenir est :",
+    "options": [
+      "A. De faire un cerclage du col utérin",
+      "B. De la garder au repos strict",
+      "C. De produire une accélération du travail",
+      "D. a et b",
+      "E. De faire une tocolyse"
+    ],
+    "answer": "E",
+    "explanation": "Menace d’accouchement prématuré à 33 SA avec modification du col : tocolyse, avec repos et corticoïdes pour la maturation pulmonaire fœtale."
+  },
+  {
+    "id": "hom2026-042",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Orthopédie 1",
+    "question": "L’arthrose est due à",
+    "options": [
+      "A. La destruction de l’os articulaire",
+      "B. La destruction du cartilage",
+      "C. L’inflammation de la synovie",
+      "D. Ostéonécrose métaphysaire",
+      "E. Ostéonécrose épiphysaire"
+    ],
+    "answer": "B",
+    "explanation": "L’arthrose est une atteinte dégénérative du cartilage articulaire."
+  },
+  {
+    "id": "hom2026-043",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Pédiatrie 6",
+    "question": "Ryan 2 ans arrive aux urgences pédiatriques pour histoire de douleurs abdominales paroxystiques évoluant depuis 12 heures. Patient léthargique, la palpation de l’abdomen révèle une masse au flanc droit. Elle signale un épisode de selles molles mais muco-sanglantes. Quel est votre diagnostic ?",
+    "options": [
+      "A. Gastro-entérite aiguë",
+      "B. Appendicite aiguë",
+      "C. Parasitose",
+      "D. Invagination intestinale",
+      "E. Aucune des réponses"
+    ],
+    "answer": "D",
+    "explanation": "Douleurs paroxystiques, léthargie, boudin d’invagination palpable et selles glairo-sanglantes (gelée de groseille) : invagination intestinale aiguë."
+  },
+  {
+    "id": "hom2026-044",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Gastro-entérologie 5",
+    "question": "Un homme de 67 ans est vu pour notion de poussées avec passage de sang rouge dans les selles depuis 3 semaines. Il a été placé sous métronidazole pour le même problème il y a 3 mois. Une petite amélioration s’en est suivie. Vous l’examinez et discutez les hypothèses suivantes, sauf :",
+    "options": [
+      "A. Un syndrome d’intestin irritable",
+      "B. Une maladie hémorroïdaire",
+      "C. Une shigellose",
+      "D. Une maladie de Crohn",
+      "E. Un cancer du colon"
+    ],
+    "answer": "A",
+    "explanation": "Le syndrome de l’intestin irritable ne provoque jamais de rectorragie : sa présence impose de chercher une autre cause."
+  },
+  {
+    "id": "hom2026-045",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Obstétrique-gynécologie 16",
+    "question": "Primipare de 19 [ans] arrive en consultation pour céphalée, douleur épigastrique après un épisode de crise convulsive tonico-clonique sur une grossesse de 36 semaines. À l’examen physique on trouve les éléments suivants : TA 160/105 mmHg ; Pls 110 ; FR 20 ; Temp 37,6 C. Les BDCF ne sont pas perçus au stéthoscope ordinaire et le col est fermé. Mon premier geste est :",
+    "options": [
+      "A. Je pense à une mort fœtale in utero et je demande une sonographie en urgence",
+      "B. Je pense à une PE/Éclampsie et j’entreprends les démarches pour la référer en SOP en urgence",
+      "C. Je pense à une PE/Éclampsie plus mort fœtale et je lui demande un bilan biologique en urgence",
+      "D. Je pense à une PE/Éclampsie plus mort fœtale et je lui donne immédiatement du MgSO4",
+      "E. Aucune réponses."
+    ],
+    "answer": "D",
+    "explanation": "Éclampsie : le premier geste est la prévention des convulsions par le sulfate de magnésium en dose de charge, avant le transfert et le bilan. Le numéro 45 est déduit, la copie étant coupée."
+  },
+  {
+    "id": "hom2026-046",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Gastro-entérologie 6",
+    "question": "Un homme de 70 ans, consulte pour dysphagie progressive pour les solides puis pour les liquides depuis 6 mois. Il est un grand fumeur. Il se plaint de régurgitations alimentaires. Vos investigations portent sur :",
+    "options": [
+      "A. Une achalasie de l’œsophage",
+      "B. Un cancer œsophagien",
+      "C. Une hernie hiatale",
+      "D. Une œsophagite de reflux",
+      "E. Un ulcère gastroduodénal"
+    ],
+    "answer": "B",
+    "explanation": "Dysphagie progressive pour les solides puis les liquides chez un grand fumeur : cancer de l’œsophage."
+  },
+  {
+    "id": "hom2026-047",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Orthopédie 2",
+    "question": "Les deux signes constants d’une fracture sont :",
+    "options": [
+      "A. La fièvre et la douleur",
+      "B. La fièvre et la diminution de la fonction",
+      "C. La douleur et la limitation de la fonction",
+      "D. La fièvre et la déformation",
+      "E. La limitation de la fonction et la déformation"
+    ],
+    "answer": "C",
+    "explanation": "Une fracture entraîne toujours une douleur et une impotence fonctionnelle ; la déformation n’est pas constante et il n’y a pas de fièvre."
+  },
+  {
+    "id": "hom2026-048",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Orthopédie 3",
+    "question": "Les deux signes constants d’une infection ostéoarticulaire sont",
+    "options": [
+      "A. La fièvre et la douleur",
+      "B. La fièvre et la diminution de la fonction",
+      "C. La douleur et la limitation de la fonction",
+      "D. La fièvre et la déformation",
+      "E. La limitation de la fonction et la déformation"
+    ],
+    "answer": "A",
+    "explanation": "Les deux signes constants de l’infection ostéoarticulaire sont la fièvre et la douleur."
+  },
+  {
+    "id": "hom2026-049",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Orthopédie 4",
+    "question": "Les deux éléments du traitement de l’arthrose sont :",
+    "options": [
+      "A. Analgésiques et antipyrétiques",
+      "B. Analgésiques et anti-inflammatoires",
+      "C. Antidouleurs et repos",
+      "D. Antidouleurs et antipyrétiques",
+      "E. Antidouleurs et antibiotiques"
+    ],
+    "answer": "B",
+    "explanation": "Le traitement symptomatique de l’arthrose repose sur les antalgiques et les anti-inflammatoires."
+  },
+  {
+    "id": "hom2026-050",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026",
+    "number": "Orthopédie 5",
+    "question": "Une enfante de 5 ans arrive aux urgences avec notion de chute, forte fièvre, douleur au genou droit au méplats comblés et altération de l’état général. Vous pensez à :",
+    "options": [
+      "A. Une ostéomyélite chronique.",
+      "B. Une ostéomyélite aiguë.",
+      "C. Un ostéosarcome du genou.",
+      "D. Un décollement épiphysaire du genou.",
+      "E. Une arthrite septique du genou."
+    ],
+    "answer": "E",
+    "explanation": "Fièvre élevée, douleur du genou, méplats comblés (épanchement) et altération de l’état général : arthrite septique."
+  },
+  {
+    "id": "hom2026b-018",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Pédiatrie 7",
+    "question": "Le syndrome de détresse respiratoire néonatal",
+    "options": [
+      "A. Est dû à une production altérée de surfactant par les cellules épithéliales alvéolaires de type I",
+      "B. Est dû à une production altérée de surfactant par les cellules épithéliales alvéolaires de type II",
+      "C. Se voit chez les nouveau-nés prématurés nés par section césarienne",
+      "D. Se voit chez les nouveau-nés à terme nés par section césarienne",
+      "E. Aucune de ces réponses"
+    ],
+    "answer": "B",
+    "explanation": "Le surfactant est produit par les pneumocytes de type II ; son déficit chez le prématuré provoque la maladie des membranes hyalines."
+  },
+  {
+    "id": "hom2026b-019",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Cardiologie 4",
+    "question": "Encadrer la bonne réponse",
+    "options": [
+      "A. Avant 55 ans, le risque des accidents vasculaires cérébraux chez un patient hypertendu, est corrélé avec la pression artérielle systolique (et donc la pression artérielle pulsée)",
+      "B. Le risque des accidents vasculaires cérébraux chez un patient hypertendu est multiplié par 5",
+      "C. Avant 55 ans, le risque des accidents vasculaires cérébraux chez un patient hypertendu est corrélé avec la pression artérielle systolique et la pression artérielle diastolique",
+      "D. Après 60 ans, le risque des accidents vasculaires cérébraux chez un patient hypertendu, est corrélé à la pression artérielle systolique et la pression artérielle diastolique",
+      "E. Aucune"
+    ],
+    "answer": "C",
+    "explanation": "Avant 55 ans, le risque d’AVC est lié à la pression systolique et à la pression diastolique ; après 60 ans, la pression systolique et la pression pulsée priment. Réponse à vérifier avec le corrigé."
+  },
+  {
+    "id": "hom2026b-020",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Cardiologie 5",
+    "question": "Un patient de 48 ans hypertendu ancien présente une douleur thoracique rétrosternale avec irradiation dorsale. L’ECG est normal. L’auscultation cardiaque révèle un souffle diastolique d’insuffisance aortique. Quel diagnostic évoquez-vous en priorité ?",
+    "options": [
+      "A. Infarctus du myocarde",
+      "B. Embolie pulmonaire",
+      "C. Dissection aortique",
+      "D. Péricardite aiguë",
+      "E. Endocardite aiguë"
+    ],
+    "answer": "C",
+    "explanation": "Douleur thoracique dorsale chez un hypertendu avec insuffisance aortique nouvelle et ECG normal : dissection aortique."
+  },
+  {
+    "id": "hom2026b-021",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Cardiologie 6",
+    "question": "Parmi ces 5 complications de l’infarctus du myocarde quelle est la première cause de mortalité au cours des premières heures d’évolution ?",
+    "options": [
+      "A. Collapsus cardiogénique",
+      "B. Ruptures cardiaques",
+      "C. Embolies systémiques",
+      "D. Fibrillation ventriculaire",
+      "E. Bloc auriculo-ventriculaire"
+    ],
+    "answer": "D",
+    "explanation": "La fibrillation ventriculaire est la première cause de décès dans les premières heures de l’infarctus."
+  },
+  {
+    "id": "hom2026b-022",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Endocrinologie 2",
+    "question": "Un adolescent de 15 ans se présente avec son père pour un examen médical d’aptitude à la pratique sportive. Le patient ne rapporte aucune préoccupation particulière. À l’examen, la taille se situe au 90e percentile pour son âge et son poids au 50e percentile. Une légère gynécomastie bilatérale est présente. La pilosité pubienne correspond au stade 3 de maturation sexuelle. Les testicules sont petits et fermes bilatéralement, avec un volume estimé à 3 mL. Le père précise qu’il a lui-même eu une puberté tardive, mais qu’il a finalement connu un développement pubertaire normal et a atteint une taille adulte de [18]? cm. Ce patient présente un risque accru de laquelle des complications suivantes ?",
+    "options": [
+      "A. Fracture osseuse",
+      "B. Délinquance",
+      "C. Cancer de la prostate",
+      "D. Hyperthyroïdie",
+      "E. Mauvais rendement scolaire"
+    ],
+    "answer": "E",
+    "explanation": "Grand adolescent avec gynécomastie et petits testicules fermes : syndrome de Klinefelter (47,XXY), associé à des difficultés d’apprentissage. L’ostéoporose et le cancer du sein sont d’autres risques ; réponse à vérifier avec le corrigé."
+  },
+  {
+    "id": "hom2026b-033",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Obstétrique-gynécologie 17",
+    "question": "Une patiente [hémodynamiquement stable] est examinée au service de gynéco[logie pour un saignement] vaginal de type spotting. Elle présente au médecin un résumé de son rapport médical contenant les informations suivantes : β-hCG quantitatif 10000 UI/L, progestéronémie < 5 ng/ml. L’échographie montre un utérus vide et la présence d’une masse tubaire droite mesurant 1,2 cm. Pas de liquide épanché dans le Douglas. Tenant compte des renseignements suivants, quelle est la meilleure prise en charge relative au cas ?",
+    "options": [
+      "A. Laparotomie exploratrice suivie de l’administration du cisplatine",
+      "B. Administration du cisplatine",
+      "C. Administration du 5-FU et du méthotrexate",
+      "D. Proposer un traitement médical au méthotrexate à la patiente",
+      "E. Suivre l’évolution pendant 3 semaines ensuite ajouter le méthotrexate"
+    ],
+    "answer": "D",
+    "explanation": "Grossesse tubaire non rompue de petite taille chez une patiente stable : traitement médical par méthotrexate. Un taux de β-hCG de 10 000 UI/L est une limite haute à discuter. Le début de l’énoncé est coupé sur la copie."
+  },
+  {
+    "id": "hom2026b-034",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Obstétrique-gynécologie 18",
+    "question": "Le 3e stade du travail est caractérisé par :",
+    "options": [
+      "A. La dilatation complète du col jusqu’à l’expulsion du fœtus",
+      "B. Les modifications utérines et cervicales annonçant le travail",
+      "C. Le « Bloody show »",
+      "D. L’expulsion des annexes fœtales",
+      "E. Les six premières heures du post-partum"
+    ],
+    "answer": "D",
+    "explanation": "Le 3e stade du travail est la délivrance, c’est-à-dire l’expulsion du placenta et des membranes."
+  },
+  {
+    "id": "hom2026b-035",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Orthopédie 6",
+    "question": "Quel est le signe clinique le plus précoce et le plus sensible d’un syndrome des loges aigu ?",
+    "options": [
+      "A. Absence du pouls",
+      "B. Paralysie complète",
+      "C. Douleur disproportionnée, notamment à l’étirement passif",
+      "D. Cyanose",
+      "E. Refroidissement du membre"
+    ],
+    "answer": "C",
+    "explanation": "La douleur disproportionnée, aggravée par l’étirement passif, est le signe le plus précoce ; pouls, cyanose et paralysie sont tardifs."
+  },
+  {
+    "id": "hom2026b-036",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Orthopédie 7",
+    "question": "La fracture du fémur chez l’adulte peut entraîner :",
+    "options": [
+      "A. Une perte sanguine importante",
+      "B. Une perte de 10 mL de sang maximum",
+      "C. Une paralysie faciale",
+      "D. Une insuffisance hépatique aiguë systématique",
+      "E. Une luxation du poignet systématique"
+    ],
+    "answer": "A",
+    "explanation": "La fracture de la diaphyse fémorale peut s’accompagner d’une hémorragie de 1 à 1,5 litre."
+  },
+  {
+    "id": "hom2026b-037",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Orthopédie 8",
+    "question": "Une arthrite septique de hanche chez un enfant constitue :",
+    "options": [
+      "A. Une urgence diagnostique et thérapeutique",
+      "B. Une affection toujours bénigne",
+      "C. Une indication à une simple observation",
+      "D. Une indication exclusive à la physiothérapie",
+      "E. Une pathologie ne nécessitant jamais d’antibiotiques"
+    ],
+    "answer": "A",
+    "explanation": "L’arthrite septique de hanche de l’enfant est une urgence : drainage et antibiotiques précoces pour préserver la tête fémorale."
+  },
+  {
+    "id": "hom2026b-038",
+    "exam": "Questionnaire d'homologation – Faculté de Médecine et de Pharmacie (UEH) – septembre 2026 (feuille à numérotation différente)",
+    "number": "Gastro-entérologie 7",
+    "question": "Un homme de 76 ans est vu pour des douleurs de la fosse iliaque gauche, histoire de difficulté pour déféquer avec présence sang dans les selles. Hyperthermie à 38,5 degrés C. L’abdomen est souple à la palpation. On note une sensibilité à la fosse iliaque gauche s’étendant à l’hypogastre. Vous pensez à :",
+    "options": [
+      "A. Une appendicite aiguë",
+      "B. Une diverticulite colique",
+      "C. Un cancer du colon",
+      "D. Un syndrome d’intestin irritable",
+      "E. Une dysenterie bacillaire"
+    ],
+    "answer": "B",
+    "explanation": "Douleur de la fosse iliaque gauche fébrile chez le sujet âgé : diverticulite sigmoïdienne."
+  }
+]
